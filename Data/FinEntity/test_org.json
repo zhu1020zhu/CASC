@@ -1,0 +1,1374 @@
+[
+    {
+        "id": 589,
+        "content": "\"We are currently seeing increasing COVID-19 case notification rates and an increasing trend in hospital and ICU admissions and occupancy in several countries mainly driven by the BA 5 sublineage of Omicron,\" said Dr Andrea Ammon, the director of ECDC, in a statement. ",
+        "input": "\"We are currently seeing increasing COVID-19 case notification rates and an increasing trend in hospital and ICU admissions and occupancy in several countries mainly driven by the BA 5 sublineage of Omicron,\" said Dr Andrea Ammon, the director of ECDC, in a statement. ",
+        "output": "{\"value\": \"ECDC\", \"start\": 247, \"end\": 251, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 833,
+        "content": "The sources requested anonymity because the matter is confidential. The FTC and EnCap declined comment. EP Energy and XCL did not respond to requests for comment.",
+        "input": "The sources requested anonymity because the matter is confidential. The FTC and EnCap declined comment. EP Energy and XCL did not respond to requests for comment.",
+        "output": "{\"value\": \"FTC\", \"start\": 72, \"end\": 75, \"tag\": \"Neutral\"}\n{\"value\": \"EnCap\", \"start\": 80, \"end\": 85, \"tag\": \"Neutral\"}\n{\"value\": \"EP Energy\", \"start\": 104, \"end\": 113, \"tag\": \"Neutral\"}\n{\"value\": \"XCL\", \"start\": 118, \"end\": 121, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 586,
+        "content": "That came as Europe braces for a double-digit inflation reading later in the day, as the European Central Bank voiced support for another big interest rate hike. German inflation accelerated to 10.9% this month, far beyond market expectations. [nL1N3100F2]",
+        "input": "That came as Europe braces for a double-digit inflation reading later in the day, as the European Central Bank voiced support for another big interest rate hike. German inflation accelerated to 10.9% this month, far beyond market expectations. [nL1N3100F2]",
+        "output": "{\"value\": \"European Central Bank\", \"start\": 89, \"end\": 110, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 860,
+        "content": "Disney+ with ads will cost $7.99 per month, the same price the company now charges for the ad-free version, Disney said in a statement on Wednesday. The cost of Disney+ without ads will increase by $3 per month to $10.99 as of Dec. 8.  ",
+        "input": "Disney+ with ads will cost $7.99 per month, the same price the company now charges for the ad-free version, Disney said in a statement on Wednesday. The cost of Disney+ without ads will increase by $3 per month to $10.99 as of Dec. 8.  ",
+        "output": "{\"value\": \"Disney+\", \"start\": 0, \"end\": 7, \"tag\": \"Neutral\"}\n{\"value\": \"Disney\", \"start\": 108, \"end\": 114, \"tag\": \"Neutral\"}\n{\"value\": \"Disney+\", \"start\": 161, \"end\": 168, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 638,
+        "content": "The company led gains among other growth stocks, including Apple Inc <AAPL.O>, Microsoft Corp <MSFT.O> and Alphabet Inc <GOOGL.O>, all of which rose between 0.3% and 0.4%.",
+        "input": "The company led gains among other growth stocks, including Apple Inc <AAPL.O>, Microsoft Corp <MSFT.O> and Alphabet Inc <GOOGL.O>, all of which rose between 0.3% and 0.4%.",
+        "output": "{\"value\": \"Apple Inc\", \"start\": 59, \"end\": 68, \"tag\": \"Positive\"}\n{\"value\": \"Microsoft Corp\", \"start\": 79, \"end\": 93, \"tag\": \"Positive\"}\n{\"value\": \"Alphabet Inc\", \"start\": 107, \"end\": 119, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 413,
+        "content": "However, updated guidance from the U.S. Treasury Department published shortly after stated the sanctions that were in place on Russia prohibit U.S. money managers from buying any of the country's debt or stocks in secondary markets. ",
+        "input": "However, updated guidance from the U.S. Treasury Department published shortly after stated the sanctions that were in place on Russia prohibit U.S. money managers from buying any of the country's debt or stocks in secondary markets. ",
+        "output": "{\"value\": \"U.S. Treasury Department\", \"start\": 35, \"end\": 59, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 140,
+        "content": "Miners <.AXMM> rose about 1.1%, despite weaker iron ore prices, with index heavyweights such as Rio Tinto <RIO.AX>, BHP Group <BHP.AX> and Fortescue Metals <FMG.AX> gaining between 0.7% and 1.8%.           ",
+        "input": "Miners <.AXMM> rose about 1.1%, despite weaker iron ore prices, with index heavyweights such as Rio Tinto <RIO.AX>, BHP Group <BHP.AX> and Fortescue Metals <FMG.AX> gaining between 0.7% and 1.8%.           ",
+        "output": "{\"value\": \"Miners\", \"start\": 0, \"end\": 6, \"tag\": \"Positive\"}\n{\"value\": \"Rio Tinto\", \"start\": 96, \"end\": 105, \"tag\": \"Positive\"}\n{\"value\": \"BHP Group\", \"start\": 116, \"end\": 125, \"tag\": \"Positive\"}\n{\"value\": \"Fortescue Metals\", \"start\": 139, \"end\": 155, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 764,
+        "content": "Restaurants across the United States have been struggling to staff their outlets adequately amid a tight labor market, which led to a decline in Domino's Pizza Inc <DPZ.N> and Yum Brands' Pizza Hut <YUM.N> quarterly sales. ",
+        "input": "Restaurants across the United States have been struggling to staff their outlets adequately amid a tight labor market, which led to a decline in Domino's Pizza Inc <DPZ.N> and Yum Brands' Pizza Hut <YUM.N> quarterly sales. ",
+        "output": "{\"value\": \"Domino's Pizza Inc\", \"start\": 145, \"end\": 163, \"tag\": \"Negative\"}\n{\"value\": \"Yum Brands' Pizza Hut\", \"start\": 176, \"end\": 197, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 350,
+        "content": "\"Concern for Accenture and other IT Consulting firms is the increasing indication of new IT deployments being halted,\" said Erik Bradley, chief strategist at research firm ETR.",
+        "input": "\"Concern for Accenture and other IT Consulting firms is the increasing indication of new IT deployments being halted,\" said Erik Bradley, chief strategist at research firm ETR.",
+        "output": "{\"value\": \"Accenture\", \"start\": 13, \"end\": 22, \"tag\": \"Negative\"}\n{\"value\": \"ETR\", \"start\": 172, \"end\": 175, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 131,
+        "content": "    Shares of rooftop solar system providers, including Sunrun Inc <RUN.O>, SunPower Corp <SPWR.O> and Sunnova Energy International Inc <NOVA.N>, closed 20% to 27% higher on Thursday.   ",
+        "input": "    Shares of rooftop solar system providers, including Sunrun Inc <RUN.O>, SunPower Corp <SPWR.O> and Sunnova Energy International Inc <NOVA.N>, closed 20% to 27% higher on Thursday.   ",
+        "output": "{\"value\": \"Sunrun Inc\", \"start\": 56, \"end\": 66, \"tag\": \"Positive\"}\n{\"value\": \"SunPower Corp\", \"start\": 76, \"end\": 89, \"tag\": \"Positive\"}\n{\"value\": \"Sunnova Energy International Inc\", \"start\": 103, \"end\": 135, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 931,
+        "content": "\"This only encourages the striking workers, who are more united than ever\", a CGT official at TotalEnergies' Feyzin refinery said of the company's conditional offer.",
+        "input": "\"This only encourages the striking workers, who are more united than ever\", a CGT official at TotalEnergies' Feyzin refinery said of the company's conditional offer.",
+        "output": "{\"value\": \"TotalEnergies\", \"start\": 94, \"end\": 107, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 939,
+        "content": "The tightening cycle indeed is clearly on the top news: nine sources familiar with ECB thinking told Reuters that policymakers are keen to end their bond purchase scheme at the earliest possible moment and raise interest rates as soon as July but certainly no later than September. [nL2N2WM01N] ",
+        "input": "The tightening cycle indeed is clearly on the top news: nine sources familiar with ECB thinking told Reuters that policymakers are keen to end their bond purchase scheme at the earliest possible moment and raise interest rates as soon as July but certainly no later than September. [nL2N2WM01N] ",
+        "output": "{\"value\": \"ECB\", \"start\": 83, \"end\": 86, \"tag\": \"Neutral\"}\n{\"value\": \"Reuters\", \"start\": 101, \"end\": 108, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 231,
+        "content": "Biden's Inflation Reduction Act (IRA), which grants the tax credits, also aims to cement U.S. firms such as Tesla <TSLA.O> and General Motors <GM.N> as industry leaders and prevent the use of China-derived battery components and critical minerals. ",
+        "input": "Biden's Inflation Reduction Act (IRA), which grants the tax credits, also aims to cement U.S. firms such as Tesla <TSLA.O> and General Motors <GM.N> as industry leaders and prevent the use of China-derived battery components and critical minerals. ",
+        "output": "{\"value\": \"Tesla\", \"start\": 108, \"end\": 113, \"tag\": \"Positive\"}\n{\"value\": \"General Motors\", \"start\": 127, \"end\": 141, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 430,
+        "content": "Before becoming CEO, Fraser was responsible for the Mexico business and for Citigroup's global consumer bank. In that role she worked to build on investments the bank made to refurbish the Mexico consumer business which had been known as Banamex.",
+        "input": "Before becoming CEO, Fraser was responsible for the Mexico business and for Citigroup's global consumer bank. In that role she worked to build on investments the bank made to refurbish the Mexico consumer business which had been known as Banamex.",
+        "output": "{\"value\": \"Citigroup\", \"start\": 76, \"end\": 85, \"tag\": \"Neutral\"}\n{\"value\": \"Banamex\", \"start\": 238, \"end\": 245, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 946,
+        "content": "Kuwait's oil minister said on Tuesday OPEC+ would make a suitable decision to both guarantee energy supply and serve the interests of producers and consumers. [nS8N31300E]",
+        "input": "Kuwait's oil minister said on Tuesday OPEC+ would make a suitable decision to both guarantee energy supply and serve the interests of producers and consumers. [nS8N31300E]",
+        "output": "{\"value\": \"OPEC+\", \"start\": 38, \"end\": 43, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 458,
+        "content": "In an update posted on its website, RMI said it had previously based its approval of ITSCI on a 2018 assessment of the scheme from the Organisation for Economic Co-operation and Development with a validity period of three years, which was extended but has now expired because it did not receive \"ITSCI's affirmative response to the RMI's invitations to reapply.\" ",
+        "input": "In an update posted on its website, RMI said it had previously based its approval of ITSCI on a 2018 assessment of the scheme from the Organisation for Economic Co-operation and Development with a validity period of three years, which was extended but has now expired because it did not receive \"ITSCI's affirmative response to the RMI's invitations to reapply.\" ",
+        "output": "{\"value\": \"RMI\", \"start\": 36, \"end\": 39, \"tag\": \"Neutral\"}\n{\"value\": \"ITSCI\", \"start\": 85, \"end\": 90, \"tag\": \"Neutral\"}\n{\"value\": \"Organisation for Economic Co-operation and Development\", \"start\": 135, \"end\": 189, \"tag\": \"Neutral\"}\n{\"value\": \"ITSCI\", \"start\": 296, \"end\": 301, \"tag\": \"Neutral\"}\n{\"value\": \"RMI\", \"start\": 332, \"end\": 335, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 940,
+        "content": "Ooredoo is looking to sell towers in the Gulf region and other markets including Iraq and Algeria through a sale-and-leaseback arrangement, the sources said.",
+        "input": "Ooredoo is looking to sell towers in the Gulf region and other markets including Iraq and Algeria through a sale-and-leaseback arrangement, the sources said.",
+        "output": "{\"value\": \"Ooredoo\", \"start\": 0, \"end\": 7, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 887,
+        "content": "At 06:47 a.m. ET, Dow e-minis <1YMcv1> were up 70 points, or 0.21%, S&P 500 e-minis <EScv1> were up 9.25 points, or 0.22%, and Nasdaq 100 e-minis <NQcv1> were up 31.25 points, or 0.24%.",
+        "input": "At 06:47 a.m. ET, Dow e-minis <1YMcv1> were up 70 points, or 0.21%, S&P 500 e-minis <EScv1> were up 9.25 points, or 0.22%, and Nasdaq 100 e-minis <NQcv1> were up 31.25 points, or 0.24%.",
+        "output": "{\"value\": \"Dow e-minis\", \"start\": 18, \"end\": 29, \"tag\": \"Positive\"}\n{\"value\": \"S&P 500 e-minis\", \"start\": 68, \"end\": 83, \"tag\": \"Positive\"}\n{\"value\": \"Nasdaq 100 e-minis\", \"start\": 127, \"end\": 145, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 936,
+        "content": " Abbott has said there is no evidence to link its formulas to the illnesses, while the FDA's inspection found bacteria in environmental testing and not in the product samples.",
+        "input": " Abbott has said there is no evidence to link its formulas to the illnesses, while the FDA's inspection found bacteria in environmental testing and not in the product samples.",
+        "output": "{\"value\": \"Abbott\", \"start\": 1, \"end\": 7, \"tag\": \"Neutral\"}\n{\"value\": \"FDA\", \"start\": 87, \"end\": 90, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 728,
+        "content": "Nigeria had alleged JPMorgan was \"grossly negligent\" in its transfer of funds paid by the energy majors to a company linked to the country's disgraced former oil minister Dan Etete, as per instructions received from Nigerian government officials.",
+        "input": "Nigeria had alleged JPMorgan was \"grossly negligent\" in its transfer of funds paid by the energy majors to a company linked to the country's disgraced former oil minister Dan Etete, as per instructions received from Nigerian government officials.",
+        "output": "{\"value\": \"JPMorgan\", \"start\": 20, \"end\": 28, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 566,
+        "content": "The Nasdaq <.IXIC> and S&P 500 <.SPX> recorded their best sessions of 2022, rising 1.4% and 0.9%, respectively. S&P 500 futures <ESc1> were steady in early Asia trade. [.N]",
+        "input": "The Nasdaq <.IXIC> and S&P 500 <.SPX> recorded their best sessions of 2022, rising 1.4% and 0.9%, respectively. S&P 500 futures <ESc1> were steady in early Asia trade. [.N]",
+        "output": "{\"value\": \"Nasdaq\", \"start\": 4, \"end\": 10, \"tag\": \"Positive\"}\n{\"value\": \"S&P 500\", \"start\": 23, \"end\": 30, \"tag\": \"Positive\"}\n{\"value\": \"S&P 500 futures\", \"start\": 112, \"end\": 127, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 135,
+        "content": "McDonald's global same-store sales increased 9.5% in the third quarter ended Sept. 30, compared with estimates for a 5.8% rise, according to IBES data from Refinitiv.",
+        "input": "McDonald's global same-store sales increased 9.5% in the third quarter ended Sept. 30, compared with estimates for a 5.8% rise, according to IBES data from Refinitiv.",
+        "output": "{\"value\": \"McDonald\", \"start\": 0, \"end\": 8, \"tag\": \"Positive\"}\n{\"value\": \"IBES\", \"start\": 141, \"end\": 145, \"tag\": \"Neutral\"}\n{\"value\": \"Refinitiv\", \"start\": 156, \"end\": 165, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 603,
+        "content": "\"The steady rate of high growth and improved margins should calm markets that have priced in a collapsing consumer demand for streaming and TV,\" SEB analysts said.",
+        "input": "\"The steady rate of high growth and improved margins should calm markets that have priced in a collapsing consumer demand for streaming and TV,\" SEB analysts said.",
+        "output": "{\"value\": \"SEB\", \"start\": 145, \"end\": 148, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 526,
+        "content": "Those and other digital initiatives are expected to help UPS win roughly $2 billion in new business this year from retailers and small businesses that sell via platforms like eBay <EBAY.O> and Shopify <SHOP.TO>, Tom\ufffd\ufffd said.      ",
+        "input": "Those and other digital initiatives are expected to help UPS win roughly $2 billion in new business this year from retailers and small businesses that sell via platforms like eBay <EBAY.O> and Shopify <SHOP.TO>, Tom\ufffd\ufffd said.      ",
+        "output": "{\"value\": \"UPS\", \"start\": 57, \"end\": 60, \"tag\": \"Positive\"}\n{\"value\": \"eBay\", \"start\": 175, \"end\": 179, \"tag\": \"Neutral\"}\n{\"value\": \"Shopify\", \"start\": 193, \"end\": 200, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 238,
+        "content": "Nvidia is down 2.3% on Thursday, while AMD is losing almost 2%. The two companies are down 19% and 29%, respectively, year-to-date.",
+        "input": "Nvidia is down 2.3% on Thursday, while AMD is losing almost 2%. The two companies are down 19% and 29%, respectively, year-to-date.",
+        "output": "{\"value\": \"Nvidia\", \"start\": 0, \"end\": 6, \"tag\": \"Negative\"}\n{\"value\": \"AMD\", \"start\": 39, \"end\": 42, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 882,
+        "content": "Deutsche Bank <DBKGn.DE> is providing an independent assessment of a potential combination, according to one person with knowledge of the discussions. Separately, the German lender is working as an underwriter of Credit Suisse's capital increase.",
+        "input": "Deutsche Bank <DBKGn.DE> is providing an independent assessment of a potential combination, according to one person with knowledge of the discussions. Separately, the German lender is working as an underwriter of Credit Suisse's capital increase.",
+        "output": "{\"value\": \"Deutsche Bank\", \"start\": 0, \"end\": 13, \"tag\": \"Neutral\"}\n{\"value\": \"Credit Suisse\", \"start\": 213, \"end\": 226, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 959,
+        "content": "It resolves claims that Wells Fargo unilaterally decided to provide forbearances to customers who inquired about their mortgages or expressed hardship, but had not explicitly requested and did not want relief.",
+        "input": "It resolves claims that Wells Fargo unilaterally decided to provide forbearances to customers who inquired about their mortgages or expressed hardship, but had not explicitly requested and did not want relief.",
+        "output": "{\"value\": \"Wells Fargo\", \"start\": 24, \"end\": 35, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 361,
+        "content": "U.S. oil refiners are expected to have about 1.15 million bpd of capacity offline for the week ending Sept. 30, decreasing available refining capacity by 320,000 bpd, research company IIR Energy said. [nL4N3111DP]",
+        "input": "U.S. oil refiners are expected to have about 1.15 million bpd of capacity offline for the week ending Sept. 30, decreasing available refining capacity by 320,000 bpd, research company IIR Energy said. [nL4N3111DP]",
+        "output": "{\"value\": \"IIR Energy\", \"start\": 184, \"end\": 194, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 171,
+        "content": "But, according to John Vail, Chief Global Strategist, Nikko Asset Management, overall, BOJ was \ufffd\ufffdrelatively dovish,\ufffd\ufffd even if \ufffd\ufffdcoupled with a moderately more positive outlook for the economy.\ufffd\ufffd",
+        "input": "But, according to John Vail, Chief Global Strategist, Nikko Asset Management, overall, BOJ was \ufffd\ufffdrelatively dovish,\ufffd\ufffd even if \ufffd\ufffdcoupled with a moderately more positive outlook for the economy.\ufffd\ufffd",
+        "output": "{\"value\": \"Nikko Asset Management\", \"start\": 54, \"end\": 76, \"tag\": \"Neutral\"}\n{\"value\": \"BOJ\", \"start\": 87, \"end\": 90, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 573,
+        "content": "Lockheed Martin CEO James Taiclet told Biden a robust supply of chips \"is essential both to national security and to the health of the defense industrial base and the aerospace industry as a whole.\"",
+        "input": "Lockheed Martin CEO James Taiclet told Biden a robust supply of chips \"is essential both to national security and to the health of the defense industrial base and the aerospace industry as a whole.\"",
+        "output": "{\"value\": \"Lockheed Martin\", \"start\": 0, \"end\": 15, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 773,
+        "content": "Of course, crypto is hardly alone in flying through heavy 2022 turbulence. The stock markets officially dipped into bear territory earlier in June \ufffdC the S&P 500 <.SPX> is down more than 19% year-to-date as of Wednesday, and the Nasdaq <.IXIC> is down more than 28% over that time frame. ",
+        "input": "Of course, crypto is hardly alone in flying through heavy 2022 turbulence. The stock markets officially dipped into bear territory earlier in June \ufffdC the S&P 500 <.SPX> is down more than 19% year-to-date as of Wednesday, and the Nasdaq <.IXIC> is down more than 28% over that time frame. ",
+        "output": "{\"value\": \"S&P 500\", \"start\": 153, \"end\": 160, \"tag\": \"Negative\"}\n{\"value\": \"Nasdaq\", \"start\": 228, \"end\": 234, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 585,
+        "content": "Best Buy Co Inc <BBY.N> shot up 12.78% as the best performing stock on the S&P 500 <.SPX> index, after the retailer forecast a smaller drop in annual sales than previously announced and expressed confidence a ramp up in deals and discounts will entice more customers. ",
+        "input": "Best Buy Co Inc <BBY.N> shot up 12.78% as the best performing stock on the S&P 500 <.SPX> index, after the retailer forecast a smaller drop in annual sales than previously announced and expressed confidence a ramp up in deals and discounts will entice more customers. ",
+        "output": "{\"value\": \"Best Buy Co Inc\", \"start\": 0, \"end\": 15, \"tag\": \"Positive\"}\n{\"value\": \"S&P 500\", \"start\": 75, \"end\": 82, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 275,
+        "content": "\"You also have the contagion element. The IMF and the U.S. Treasury waded in yesterday in fear of global contagion from gilts to other markets,\" he said.    ",
+        "input": "\"You also have the contagion element. The IMF and the U.S. Treasury waded in yesterday in fear of global contagion from gilts to other markets,\" he said.    ",
+        "output": "{\"value\": \"IMF\", \"start\": 42, \"end\": 45, \"tag\": \"Neutral\"}\n{\"value\": \"U.S. Treasury\", \"start\": 54, \"end\": 67, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 791,
+        "content": "Estee Lauder Cos Inc <EL.N> slipped 1.2% as it forecast full-year sales and profit below estimates, due to a hit from pandemic-related lockdowns in China. [nL4N2ZU23O]   (Reporting by Bansari Mayur Kamdar and Devik Jain in Bengaluru; Editing by Shounak Dasgupta)  ((BansariMayur.Kamdar@thomsonreuters.com))",
+        "input": "Estee Lauder Cos Inc <EL.N> slipped 1.2% as it forecast full-year sales and profit below estimates, due to a hit from pandemic-related lockdowns in China. [nL4N2ZU23O]   (Reporting by Bansari Mayur Kamdar and Devik Jain in Bengaluru; Editing by Shounak Dasgupta)  ((BansariMayur.Kamdar@thomsonreuters.com))",
+        "output": "{\"value\": \"Estee Lauder Cos Inc\", \"start\": 0, \"end\": 20, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 708,
+        "content": "The pain in the April-June quarter comes fresh after the closely watched Vision Fund posted a record $26 billion loss in May, hit by rising interest rates and political instability that disrupted global markets.",
+        "input": "The pain in the April-June quarter comes fresh after the closely watched Vision Fund posted a record $26 billion loss in May, hit by rising interest rates and political instability that disrupted global markets.",
+        "output": "{\"value\": \"Vision Fund\", \"start\": 73, \"end\": 84, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 125,
+        "content": "\"We know aviation safety and 5G can co-exist and we are confident further collaboration and technical assessment will allay any issues,\" AT&T said.",
+        "input": "\"We know aviation safety and 5G can co-exist and we are confident further collaboration and technical assessment will allay any issues,\" AT&T said.",
+        "output": "{\"value\": \"AT&T\", \"start\": 137, \"end\": 141, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 506,
+        "content": "Shares of chipmakers heavily exposed to China were trading mostly higher, rebounding after early declines. Advanced Micro Devices <AMD.O> rallied about 3% ahead of its quarterly report after the bell.",
+        "input": "Shares of chipmakers heavily exposed to China were trading mostly higher, rebounding after early declines. Advanced Micro Devices <AMD.O> rallied about 3% ahead of its quarterly report after the bell.",
+        "output": "{\"value\": \"Advanced Micro Devices\", \"start\": 107, \"end\": 129, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 211,
+        "content": "One of them is former Israeli policeman Aviram Azari, who was arrested by the FBI in 2019. He recently pleaded guilty in New York to wire fraud, identity theft and hacking-related charges after hiring Indian spies to target \ufffd\ufffda large number\ufffd\ufffd of people, including New York hedge fund employees, prosecutors said in a court filing.",
+        "input": "One of them is former Israeli policeman Aviram Azari, who was arrested by the FBI in 2019. He recently pleaded guilty in New York to wire fraud, identity theft and hacking-related charges after hiring Indian spies to target \ufffd\ufffda large number\ufffd\ufffd of people, including New York hedge fund employees, prosecutors said in a court filing.",
+        "output": "{\"value\": \"FBI\", \"start\": 78, \"end\": 81, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 516,
+        "content": "Wells Fargo <WFC.N>, Bank of America <BAC.N> and Citigroup <C.N> advanced more than 1% each premarket, leading gains among big banks. ",
+        "input": "Wells Fargo <WFC.N>, Bank of America <BAC.N> and Citigroup <C.N> advanced more than 1% each premarket, leading gains among big banks. ",
+        "output": "{\"value\": \"Wells Fargo\", \"start\": 0, \"end\": 11, \"tag\": \"Positive\"}\n{\"value\": \"Bank of America\", \"start\": 21, \"end\": 36, \"tag\": \"Positive\"}\n{\"value\": \"Citigroup\", \"start\": 49, \"end\": 58, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 966,
+        "content": "The startup is one of several AI chip companies competing with Nvidia Corp <NVDA.O> which dominates the AI market. Part of SambaNova\ufffd\ufffds strategy has been to offer a powerful chip with a software platform that makes it easier for companies without AI expertise to start using AI in their business. SambaNova offers both the hardware and software as a subscription.",
+        "input": "The startup is one of several AI chip companies competing with Nvidia Corp <NVDA.O> which dominates the AI market. Part of SambaNova\ufffd\ufffds strategy has been to offer a powerful chip with a software platform that makes it easier for companies without AI expertise to start using AI in their business. SambaNova offers both the hardware and software as a subscription.",
+        "output": "{\"value\": \"Nvidia Corp\", \"start\": 63, \"end\": 74, \"tag\": \"Neutral\"}\n{\"value\": \"SambaNova\", \"start\": 123, \"end\": 132, \"tag\": \"Neutral\"}\n{\"value\": \"SambaNova\", \"start\": 296, \"end\": 305, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 794,
+        "content": "Bank of Japan has said it would not withdraw monetary stimulus because inflation is due to soaring fuel and raw material costs blamed on Russia's invasion of Ukraine and will likely prove temporary.",
+        "input": "Bank of Japan has said it would not withdraw monetary stimulus because inflation is due to soaring fuel and raw material costs blamed on Russia's invasion of Ukraine and will likely prove temporary.",
+        "output": "{\"value\": \"Bank of Japan\", \"start\": 0, \"end\": 13, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 15,
+        "content": "Macy's Inc <M.N> rose 3.8% after the retailer beat quarterly profit estimates, while Palo Alto Networks Inc <PANW.O> surged about 12% after the cybersecurity firm posted upbeat quarterly results and announced a stock split plan. [nL4N2ZZ2A4] [nL4N2ZZ1XM]",
+        "input": "Macy's Inc <M.N> rose 3.8% after the retailer beat quarterly profit estimates, while Palo Alto Networks Inc <PANW.O> surged about 12% after the cybersecurity firm posted upbeat quarterly results and announced a stock split plan. [nL4N2ZZ2A4] [nL4N2ZZ1XM]",
+        "output": "{\"value\": \"Macy's Inc\", \"start\": 0, \"end\": 10, \"tag\": \"Positive\"}\n{\"value\": \"Palo Alto Networks Inc\", \"start\": 85, \"end\": 107, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 576,
+        "content": "Block Inc <SQ.N> posted a rise in third-quarter revenue on Thursday, sending its shares up 12% as the growth of its Cash App helped to make up for stagnant cryptocurrency prices that had dogged the payments platform led by Twitter founder Jack Dorsey in the previous quarters. [nS0N31001T]",
+        "input": "Block Inc <SQ.N> posted a rise in third-quarter revenue on Thursday, sending its shares up 12% as the growth of its Cash App helped to make up for stagnant cryptocurrency prices that had dogged the payments platform led by Twitter founder Jack Dorsey in the previous quarters. [nS0N31001T]",
+        "output": "{\"value\": \"Block Inc\", \"start\": 0, \"end\": 9, \"tag\": \"Positive\"}\n{\"value\": \"Cash App\", \"start\": 116, \"end\": 124, \"tag\": \"Positive\"}\n{\"value\": \"Twitter\", \"start\": 223, \"end\": 230, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 471,
+        "content": "A shift to a subscription-like model could add roughly $1 trillion to Apple's current market capitalization, said analysts at Morgan Stanley. ",
+        "input": "A shift to a subscription-like model could add roughly $1 trillion to Apple's current market capitalization, said analysts at Morgan Stanley. ",
+        "output": "{\"value\": \"Apple\", \"start\": 70, \"end\": 75, \"tag\": \"Positive\"}\n{\"value\": \"Morgan Stanley\", \"start\": 126, \"end\": 140, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 727,
+        "content": "His exit comes as Facebook faces a host of regulatory challenges in the country where Prime Minister Narendra Modi's administration has been tightening laws governing Big Tech companies. ",
+        "input": "His exit comes as Facebook faces a host of regulatory challenges in the country where Prime Minister Narendra Modi's administration has been tightening laws governing Big Tech companies. ",
+        "output": "{\"value\": \"Facebook\", \"start\": 18, \"end\": 26, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 901,
+        "content": "Many of the biggest Wall Street banks, led by Morgan Stanley <MS.N>, Bank of America Corp <BAC.N> and Barclays Plc <BARC.L>, committed to providing $25.5 billion in debt, some of it secured against Twitter and some of it tied to Musk's Tesla stock. Musk himself committed another $21 billion in cash.",
+        "input": "Many of the biggest Wall Street banks, led by Morgan Stanley <MS.N>, Bank of America Corp <BAC.N> and Barclays Plc <BARC.L>, committed to providing $25.5 billion in debt, some of it secured against Twitter and some of it tied to Musk's Tesla stock. Musk himself committed another $21 billion in cash.",
+        "output": "{\"value\": \"Morgan Stanley\", \"start\": 46, \"end\": 60, \"tag\": \"Neutral\"}\n{\"value\": \"Bank of America Corp\", \"start\": 69, \"end\": 89, \"tag\": \"Neutral\"}\n{\"value\": \"Barclays Plc\", \"start\": 102, \"end\": 114, \"tag\": \"Neutral\"}\n{\"value\": \"Twitter\", \"start\": 198, \"end\": 205, \"tag\": \"Neutral\"}\n{\"value\": \"Tesla\", \"start\": 236, \"end\": 241, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 823,
+        "content": "Investors wiped almost 25% off Target <TGT.N> shares on Wednesday after its profit halved as it had to discount bigger items, and Walmart <WMT.N> has dropped more than 17% since it reported weak results early on Tuesday.",
+        "input": "Investors wiped almost 25% off Target <TGT.N> shares on Wednesday after its profit halved as it had to discount bigger items, and Walmart <WMT.N> has dropped more than 17% since it reported weak results early on Tuesday.",
+        "output": "{\"value\": \"Target\", \"start\": 31, \"end\": 37, \"tag\": \"Negative\"}\n{\"value\": \"Walmart\", \"start\": 130, \"end\": 137, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 442,
+        "content": "The company has also joined RE100, a group of global corporations including Apple, Intel and TSMC that are committed to using 100% renewable energy across their own operations. ",
+        "input": "The company has also joined RE100, a group of global corporations including Apple, Intel and TSMC that are committed to using 100% renewable energy across their own operations. ",
+        "output": "{\"value\": \"RE100\", \"start\": 28, \"end\": 33, \"tag\": \"Neutral\"}\n{\"value\": \"Apple\", \"start\": 76, \"end\": 81, \"tag\": \"Neutral\"}\n{\"value\": \"Intel\", \"start\": 83, \"end\": 88, \"tag\": \"Neutral\"}\n{\"value\": \"TSMC\", \"start\": 93, \"end\": 97, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 694,
+        "content": "At 08:39 a.m. ET, Dow e-minis <1YMcv1> were down 24 points, or 0.07%, S&P 500 e-minis <EScv1> were down 8.75 points, or 0.2%, and Nasdaq 100 e-minis <NQcv1> were down 39 points, or 0.28%.",
+        "input": "At 08:39 a.m. ET, Dow e-minis <1YMcv1> were down 24 points, or 0.07%, S&P 500 e-minis <EScv1> were down 8.75 points, or 0.2%, and Nasdaq 100 e-minis <NQcv1> were down 39 points, or 0.28%.",
+        "output": "{\"value\": \"Dow e-minis\", \"start\": 18, \"end\": 29, \"tag\": \"Negative\"}\n{\"value\": \"S&P 500 e-minis\", \"start\": 70, \"end\": 85, \"tag\": \"Negative\"}\n{\"value\": \"Nasdaq 100 e-minis\", \"start\": 130, \"end\": 148, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 899,
+        "content": "Mike Santomassimo, chief financial officer at Wells Fargo & Co <WFC.N>, the fourth-largest U.S. bank, noted that credit spreads had been widening and \"that's an area to watch to see if there are any cracks that start to emerge\". ",
+        "input": "Mike Santomassimo, chief financial officer at Wells Fargo & Co <WFC.N>, the fourth-largest U.S. bank, noted that credit spreads had been widening and \"that's an area to watch to see if there are any cracks that start to emerge\". ",
+        "output": "{\"value\": \"Wells Fargo & Co\", \"start\": 46, \"end\": 62, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 817,
+        "content": "Advertisers on Twitter, including big companies such as General Motors, Mondelez International, Volkswagen AG, have paused advertising on the platform, as they grapple with the new boss. [nL8N31Z37E]",
+        "input": "Advertisers on Twitter, including big companies such as General Motors, Mondelez International, Volkswagen AG, have paused advertising on the platform, as they grapple with the new boss. [nL8N31Z37E]",
+        "output": "{\"value\": \"Twitter\", \"start\": 15, \"end\": 22, \"tag\": \"Negative\"}\n{\"value\": \"General Motors\", \"start\": 56, \"end\": 70, \"tag\": \"Neutral\"}\n{\"value\": \"Mondelez International\", \"start\": 72, \"end\": 94, \"tag\": \"Neutral\"}\n{\"value\": \"Volkswagen AG\", \"start\": 96, \"end\": 109, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 695,
+        "content": "SMIC dropped 4%, chip equipment maker NAURA Technology Group Co <002371.SZ> sank 10% by the daily limit, and Hua Hong Semiconductor plunged 9.5%.",
+        "input": "SMIC dropped 4%, chip equipment maker NAURA Technology Group Co <002371.SZ> sank 10% by the daily limit, and Hua Hong Semiconductor plunged 9.5%.",
+        "output": "{\"value\": \"SMIC\", \"start\": 0, \"end\": 4, \"tag\": \"Negative\"}\n{\"value\": \"NAURA Technology Group Co\", \"start\": 38, \"end\": 63, \"tag\": \"Negative\"}\n{\"value\": \"Hua Hong Semiconductor\", \"start\": 109, \"end\": 131, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 667,
+        "content": "The storm, which weakened from hurricane force overnight, was threatening Baja California, other parts of Mexico and the U.S. Southwest with heavy rains that could cause dangerous flash flooding, landslides and mudslides, the National Weather Service (NWS) said. ",
+        "input": "The storm, which weakened from hurricane force overnight, was threatening Baja California, other parts of Mexico and the U.S. Southwest with heavy rains that could cause dangerous flash flooding, landslides and mudslides, the National Weather Service (NWS) said. ",
+        "output": "{\"value\": \"National Weather Service\", \"start\": 226, \"end\": 250, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 714,
+        "content": "European tech index <.SX8P> slipped 0.8%, while New York-listed shares of Chinese firms Alibaba <BABA.N>, JD.com <JD.O> and Pinduoduo <PDD.O> fell nearly 1.5% each.",
+        "input": "European tech index <.SX8P> slipped 0.8%, while New York-listed shares of Chinese firms Alibaba <BABA.N>, JD.com <JD.O> and Pinduoduo <PDD.O> fell nearly 1.5% each.",
+        "output": "{\"value\": \"European tech index\", \"start\": 0, \"end\": 19, \"tag\": \"Negative\"}\n{\"value\": \"Alibaba\", \"start\": 88, \"end\": 95, \"tag\": \"Negative\"}\n{\"value\": \"JD.com\", \"start\": 106, \"end\": 112, \"tag\": \"Negative\"}\n{\"value\": \"Pinduoduo\", \"start\": 124, \"end\": 133, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 6,
+        "content": "However, top oilfield services company Schlumberger <SLB.N> on Wednesday said North American oil and gas activity was growing at a faster pace than expected, as investments rates soar. [nL1N30E14E]",
+        "input": "However, top oilfield services company Schlumberger <SLB.N> on Wednesday said North American oil and gas activity was growing at a faster pace than expected, as investments rates soar. [nL1N30E14E]",
+        "output": "{\"value\": \"Schlumberger\", \"start\": 39, \"end\": 51, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 289,
+        "content": "Jaret Seiberg at Cowen Washington Research Group likewise said it was hard \"to see companies changing their behavior\" in response to the 1% tax. There is a risk, though, that taxing dividends becomes an \"easy way to raise additional money\" and that Congress raises the 1% in future, he added. ",
+        "input": "Jaret Seiberg at Cowen Washington Research Group likewise said it was hard \"to see companies changing their behavior\" in response to the 1% tax. There is a risk, though, that taxing dividends becomes an \"easy way to raise additional money\" and that Congress raises the 1% in future, he added. ",
+        "output": "{\"value\": \"Cowen Washington Research Group\", \"start\": 17, \"end\": 48, \"tag\": \"Neutral\"}\n{\"value\": \"Congress\", \"start\": 249, \"end\": 257, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 284,
+        "content": "MSCI's global stock index <.MIWD00000PUS> was down 0.08%, while the STOXX <.STOXX> index of European company shares shed 0.4%, having fallen for nearly a week. The benchmark is about 11% off its record high of Jan. 4.",
+        "input": "MSCI's global stock index <.MIWD00000PUS> was down 0.08%, while the STOXX <.STOXX> index of European company shares shed 0.4%, having fallen for nearly a week. The benchmark is about 11% off its record high of Jan. 4.",
+        "output": "{\"value\": \"MSCI's global stock index\", \"start\": 0, \"end\": 25, \"tag\": \"Negative\"}\n{\"value\": \"STOXX\", \"start\": 68, \"end\": 73, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 305,
+        "content": "The bank lowered its demand growth forecasts for this year and next. It forecasts Brent crude prices at $110 a barrel in the third quarter and WTI at $107.50, each $20 lower than their previous forecast. ",
+        "input": "The bank lowered its demand growth forecasts for this year and next. It forecasts Brent crude prices at $110 a barrel in the third quarter and WTI at $107.50, each $20 lower than their previous forecast. ",
+        "output": "{\"value\": \"Brent crude\", \"start\": 82, \"end\": 93, \"tag\": \"Negative\"}\n{\"value\": \"WTI\", \"start\": 143, \"end\": 146, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 710,
+        "content": "Brent crude futures <LCOc1> were down 2 cents, or 0.02%, to $91.67 a barrel by 11:37 a.m. EDT (1537 GMT), recovering from a 6.4% fall last week. U.S. West Texas Intermediate crude <CLc1> was up 4 cents, or 0.4%, at $85.57 after a 7.6% decline last week.",
+        "input": "Brent crude futures <LCOc1> were down 2 cents, or 0.02%, to $91.67 a barrel by 11:37 a.m. EDT (1537 GMT), recovering from a 6.4% fall last week. U.S. West Texas Intermediate crude <CLc1> was up 4 cents, or 0.4%, at $85.57 after a 7.6% decline last week.",
+        "output": "{\"value\": \"Brent crude futures\", \"start\": 0, \"end\": 19, \"tag\": \"Negative\"}\n{\"value\": \"U.S. West Texas Intermediate crude\", \"start\": 145, \"end\": 179, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 288,
+        "content": "The other six \"FANGMAN\" stocks Meta Platforms <META.O>, Nvidia <NVDA.O>, Netflix <NFLX.O>, Amazon.com <AMZN.O>, Microsoft <MSFT.O> and Alphabet <GOOGL.O> are down between 24% to 64% so far this year.",
+        "input": "The other six \"FANGMAN\" stocks Meta Platforms <META.O>, Nvidia <NVDA.O>, Netflix <NFLX.O>, Amazon.com <AMZN.O>, Microsoft <MSFT.O> and Alphabet <GOOGL.O> are down between 24% to 64% so far this year.",
+        "output": "{\"value\": \"Meta Platforms\", \"start\": 31, \"end\": 45, \"tag\": \"Negative\"}\n{\"value\": \"Nvidia\", \"start\": 56, \"end\": 62, \"tag\": \"Negative\"}\n{\"value\": \"Netflix\", \"start\": 73, \"end\": 80, \"tag\": \"Negative\"}\n{\"value\": \"Amazon.com\", \"start\": 91, \"end\": 101, \"tag\": \"Negative\"}\n{\"value\": \"Microsoft\", \"start\": 112, \"end\": 121, \"tag\": \"Negative\"}\n{\"value\": \"Alphabet\", \"start\": 135, \"end\": 143, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 51,
+        "content": "Shares of biofuel producers, including Darling Ingredients <DAR.N>, Neste <NESTE.HE>, Gevo Inc <GEVO.O>, expected to benefit from the extension of the biofuel blenders tax credit and addition of sustainable aviation fuel tax credits included in the Act, rose on Monday before giving up gains to trade little changed on the day. ",
+        "input": "Shares of biofuel producers, including Darling Ingredients <DAR.N>, Neste <NESTE.HE>, Gevo Inc <GEVO.O>, expected to benefit from the extension of the biofuel blenders tax credit and addition of sustainable aviation fuel tax credits included in the Act, rose on Monday before giving up gains to trade little changed on the day. ",
+        "output": "{\"value\": \"Darling Ingredients\", \"start\": 39, \"end\": 58, \"tag\": \"Positive\"}\n{\"value\": \"Neste\", \"start\": 68, \"end\": 73, \"tag\": \"Positive\"}\n{\"value\": \"Gevo Inc\", \"start\": 86, \"end\": 94, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 30,
+        "content": "\"It is far less risky to own a small number of companies that you know extremely well, and in which you can be confident in their future earnings potential, than it is to own 500 companies you know nothing about,\" notes Guy Davis at GCI Investors. ",
+        "input": "\"It is far less risky to own a small number of companies that you know extremely well, and in which you can be confident in their future earnings potential, than it is to own 500 companies you know nothing about,\" notes Guy Davis at GCI Investors. ",
+        "output": "{\"value\": \"GCI Investors\", \"start\": 233, \"end\": 246, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 639,
+        "content": "Unilever has had a rocky start to the year after mounting three bids for the consumer health arm of GlaxoSmithKline <GSK.L>, - one for as much as 50 billion pounds ($53.14 billion). ",
+        "input": "Unilever has had a rocky start to the year after mounting three bids for the consumer health arm of GlaxoSmithKline <GSK.L>, - one for as much as 50 billion pounds ($53.14 billion). ",
+        "output": "{\"value\": \"Unilever\", \"start\": 0, \"end\": 8, \"tag\": \"Negative\"}\n{\"value\": \"GlaxoSmithKline\", \"start\": 100, \"end\": 115, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 564,
+        "content": "Adding to the upbeat mood for stock investors Friday, T-Mobile US Inc <TMUS.O> shares rose after it raised its annual forecast for wireless subscriber additions. Also, Exxon Mobil <XOM.N> posted a record-breaking quarter profit, while Chevron <CVX.N> reported its second-highest ever quarterly profit. [nL1N31T0SJ] All three major stock indexes were up sharply Friday.",
+        "input": "Adding to the upbeat mood for stock investors Friday, T-Mobile US Inc <TMUS.O> shares rose after it raised its annual forecast for wireless subscriber additions. Also, Exxon Mobil <XOM.N> posted a record-breaking quarter profit, while Chevron <CVX.N> reported its second-highest ever quarterly profit. [nL1N31T0SJ] All three major stock indexes were up sharply Friday.",
+        "output": "{\"value\": \"T-Mobile US Inc\", \"start\": 54, \"end\": 69, \"tag\": \"Positive\"}\n{\"value\": \"Exxon Mobil\", \"start\": 168, \"end\": 179, \"tag\": \"Positive\"}\n{\"value\": \"Chevron\", \"start\": 235, \"end\": 242, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 143,
+        "content": "In January, Tesla reported record quarterly deliveries that far exceeded Wall Street estimates, riding out global chip shortages as it ramped up China production. It was the sixth consecutive quarter that the world's most valuable automaker posted record deliveries. [nL1N2TJ0ZM]",
+        "input": "In January, Tesla reported record quarterly deliveries that far exceeded Wall Street estimates, riding out global chip shortages as it ramped up China production. It was the sixth consecutive quarter that the world's most valuable automaker posted record deliveries. [nL1N2TJ0ZM]",
+        "output": "{\"value\": \"Tesla\", \"start\": 12, \"end\": 17, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 742,
+        "content": "Shares of Tower Semiconductor <TSEM.O>, which agreed in February to sell itself to Intel Corp for $5.4 billion, were down 4% on Wednesday afternoon at $41.31, a significant discount to the $53 per share deal price, reflecting doubt among investors over whether the transaction will be completed.",
+        "input": "Shares of Tower Semiconductor <TSEM.O>, which agreed in February to sell itself to Intel Corp for $5.4 billion, were down 4% on Wednesday afternoon at $41.31, a significant discount to the $53 per share deal price, reflecting doubt among investors over whether the transaction will be completed.",
+        "output": "{\"value\": \"Tower Semiconductor\", \"start\": 10, \"end\": 29, \"tag\": \"Negative\"}\n{\"value\": \"Intel Corp\", \"start\": 83, \"end\": 93, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 232,
+        "content": "eBay is expected to report a fall in quarter revenue, in the face of an increasingly challenging competitive landscape and macro environment.",
+        "input": "eBay is expected to report a fall in quarter revenue, in the face of an increasingly challenging competitive landscape and macro environment.",
+        "output": "{\"value\": \"eBay\", \"start\": 0, \"end\": 4, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 206,
+        "content": "Stocks on Wall Street are down on Friday after a jobs report showed the U.S. labor market remains tight and will keep the Federal Reserve on track to sharply tighten monetary policy to cool the economy as it fights to lower inflation.",
+        "input": "Stocks on Wall Street are down on Friday after a jobs report showed the U.S. labor market remains tight and will keep the Federal Reserve on track to sharply tighten monetary policy to cool the economy as it fights to lower inflation.",
+        "output": "{\"value\": \"Federal Reserve\", \"start\": 122, \"end\": 137, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 332,
+        "content": "\"The labor market continues to recover,\" said Gus Faucher, chief economist at PNC Financial in Pittsburgh, Pennsylvania. \"However, the Omicron variant is a substantial downside risk to the near-term labor market recovery.\"",
+        "input": "\"The labor market continues to recover,\" said Gus Faucher, chief economist at PNC Financial in Pittsburgh, Pennsylvania. \"However, the Omicron variant is a substantial downside risk to the near-term labor market recovery.\"",
+        "output": "{\"value\": \"PNC Financial\", \"start\": 78, \"end\": 91, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 161,
+        "content": "The former is helped out by the Netherlands' largest bank ING Groep <INGA.AS> which has rallied 5.5% after reporting Q3 results and rolling out a share buyback plan worth 1.5 billion euros ($1.46 billion).",
+        "input": "The former is helped out by the Netherlands' largest bank ING Groep <INGA.AS> which has rallied 5.5% after reporting Q3 results and rolling out a share buyback plan worth 1.5 billion euros ($1.46 billion).",
+        "output": "{\"value\": \"ING Groep\", \"start\": 58, \"end\": 67, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 790,
+        "content": "The same can be said of decisions on how to treat Chinese state-affiliated Twitter accounts, given the country\ufffd\ufffds outsized importance to Tesla\ufffd\ufffds operations. The car company\ufffd\ufffds controversial 2016 acquisition of solar panel installer SolarCity, where Musk also sat on the board, even justifies some degree of fear about a Twitter deal. Tesla shareholders can be forgiven any doom-scrolling. ",
+        "input": "The same can be said of decisions on how to treat Chinese state-affiliated Twitter accounts, given the country\ufffd\ufffds outsized importance to Tesla\ufffd\ufffds operations. The car company\ufffd\ufffds controversial 2016 acquisition of solar panel installer SolarCity, where Musk also sat on the board, even justifies some degree of fear about a Twitter deal. Tesla shareholders can be forgiven any doom-scrolling. ",
+        "output": "{\"value\": \"Twitter\", \"start\": 75, \"end\": 82, \"tag\": \"Neutral\"}\n{\"value\": \"Tesla\", \"start\": 136, \"end\": 141, \"tag\": \"Neutral\"}\n{\"value\": \"SolarCity\", \"start\": 230, \"end\": 239, \"tag\": \"Neutral\"}\n{\"value\": \"Twitter\", \"start\": 318, \"end\": 325, \"tag\": \"Neutral\"}\n{\"value\": \"Tesla\", \"start\": 332, \"end\": 337, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 809,
+        "content": "Shares of the company fell 4.4% in extended trading. \"I think the market is extremely pessimistic about the macro factors,\" Futurum Research analyst Daniel Newman said. ",
+        "input": "Shares of the company fell 4.4% in extended trading. \"I think the market is extremely pessimistic about the macro factors,\" Futurum Research analyst Daniel Newman said. ",
+        "output": "{\"value\": \"Futurum Research\", \"start\": 124, \"end\": 140, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 792,
+        "content": "Even before the suit, demand for LBC was faltering. After hitting a high of $160 in 2016, LBC\ufffd\ufffds value has since fallen to about two cents.",
+        "input": "Even before the suit, demand for LBC was faltering. After hitting a high of $160 in 2016, LBC\ufffd\ufffds value has since fallen to about two cents.",
+        "output": "{\"value\": \"LBC\", \"start\": 33, \"end\": 36, \"tag\": \"Negative\"}\n{\"value\": \"LBC\", \"start\": 90, \"end\": 93, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 706,
+        "content": "The railroads' cost-cutting moves stoked profits but \"there wasn't any buffer\" for demand shocks and service disruptions caused by home-bound shoppers' binge on exercise equipment, furniture, appliances and other goods, Stifel analyst Ben Nolan said.",
+        "input": "The railroads' cost-cutting moves stoked profits but \"there wasn't any buffer\" for demand shocks and service disruptions caused by home-bound shoppers' binge on exercise equipment, furniture, appliances and other goods, Stifel analyst Ben Nolan said.",
+        "output": "{\"value\": \"Stifel\", \"start\": 220, \"end\": 226, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 812,
+        "content": "With cooler weather coming, Refinitiv projected average U.S. gas demand, including exports, would slide to 92.3 bcfd next week from 96.8 bcfd this week. The forecast for next week was lower than Refinitiv's outlook on Friday before the U.S. Labor Day holiday on Monday.",
+        "input": "With cooler weather coming, Refinitiv projected average U.S. gas demand, including exports, would slide to 92.3 bcfd next week from 96.8 bcfd this week. The forecast for next week was lower than Refinitiv's outlook on Friday before the U.S. Labor Day holiday on Monday.",
+        "output": "{\"value\": \"Refinitiv\", \"start\": 28, \"end\": 37, \"tag\": \"Neutral\"}\n{\"value\": \"Refinitiv\", \"start\": 195, \"end\": 204, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 498,
+        "content": "Snap's stock has lost about 77% of its value so far this year, while Alphabet, Meta and Pinterest have lost between 30% and 60%. Twitter, however, has gained 21% on the prospect of billionaire Musk buying the company.",
+        "input": "Snap's stock has lost about 77% of its value so far this year, while Alphabet, Meta and Pinterest have lost between 30% and 60%. Twitter, however, has gained 21% on the prospect of billionaire Musk buying the company.",
+        "output": "{\"value\": \"Snap\", \"start\": 0, \"end\": 4, \"tag\": \"Negative\"}\n{\"value\": \"Alphabet\", \"start\": 69, \"end\": 77, \"tag\": \"Negative\"}\n{\"value\": \"Meta\", \"start\": 79, \"end\": 83, \"tag\": \"Negative\"}\n{\"value\": \"Pinterest\", \"start\": 88, \"end\": 97, \"tag\": \"Negative\"}\n{\"value\": \"Twitter\", \"start\": 129, \"end\": 136, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 627,
+        "content": "The average fund's portfolio weight in its top 10 positions, which is heavily skewed toward tech stocks, jumped to 70%, the highest concentration since Q1 2020, according to Goldman's analysis of holdings of 795 hedge funds with $2.4 trillion of gross equity positions.",
+        "input": "The average fund's portfolio weight in its top 10 positions, which is heavily skewed toward tech stocks, jumped to 70%, the highest concentration since Q1 2020, according to Goldman's analysis of holdings of 795 hedge funds with $2.4 trillion of gross equity positions.",
+        "output": "{\"value\": \"Goldman\", \"start\": 174, \"end\": 181, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 494,
+        "content": "At the same time, estimated third-quarter profit growth is edging higher as the majority of companies are beating expectations, with earnings now expected to have increased 4.8% in the third quarter over a year ago, Refinitiv data shows. ",
+        "input": "At the same time, estimated third-quarter profit growth is edging higher as the majority of companies are beating expectations, with earnings now expected to have increased 4.8% in the third quarter over a year ago, Refinitiv data shows. ",
+        "output": "{\"value\": \"Refinitiv\", \"start\": 216, \"end\": 225, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 351,
+        "content": "In one example, Aptiv <APTV.N>, which supplies wire harnesses for Tesla, was not able to resume production in mid-April and there were concerns that this could have a knock-on effect on the automaker's production plans, according to a person familiar with the matter.",
+        "input": "In one example, Aptiv <APTV.N>, which supplies wire harnesses for Tesla, was not able to resume production in mid-April and there were concerns that this could have a knock-on effect on the automaker's production plans, according to a person familiar with the matter.",
+        "output": "{\"value\": \"Aptiv\", \"start\": 16, \"end\": 21, \"tag\": \"Negative\"}\n{\"value\": \"Tesla\", \"start\": 66, \"end\": 71, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 687,
+        "content": "Rising prices and a lack of hit titles have added to problems for video game publishers Activision Blizzard Inc <ATVI.O> and Electronic Arts <EA.O> that are also battling supply-chain delays and a shift in consumer choices due to easing lockdowns.",
+        "input": "Rising prices and a lack of hit titles have added to problems for video game publishers Activision Blizzard Inc <ATVI.O> and Electronic Arts <EA.O> that are also battling supply-chain delays and a shift in consumer choices due to easing lockdowns.",
+        "output": "{\"value\": \"Activision Blizzard Inc\", \"start\": 88, \"end\": 111, \"tag\": \"Negative\"}\n{\"value\": \"Electronic Arts\", \"start\": 125, \"end\": 140, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 270,
+        "content": "    Carvana also \"failed to accurately predict how this would all play out and the impact it would have on our business,\" added CNBC, which first reported the job cuts, citing the memo.   ",
+        "input": "    Carvana also \"failed to accurately predict how this would all play out and the impact it would have on our business,\" added CNBC, which first reported the job cuts, citing the memo.   ",
+        "output": "{\"value\": \"Carvana\", \"start\": 4, \"end\": 11, \"tag\": \"Negative\"}\n{\"value\": \"CNBC\", \"start\": 128, \"end\": 132, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 356,
+        "content": "However, technology stocks <.SX8P> continued to remain under pressure as Franco-Italian chipmaker STMicroelectronics <STM.PA> slumped 7.9% after it forecast sales growth to slow in the latter part of the year. [nL1N31S0A0]",
+        "input": "However, technology stocks <.SX8P> continued to remain under pressure as Franco-Italian chipmaker STMicroelectronics <STM.PA> slumped 7.9% after it forecast sales growth to slow in the latter part of the year. [nL1N31S0A0]",
+        "output": "{\"value\": \"technology stocks\", \"start\": 9, \"end\": 26, \"tag\": \"Negative\"}\n{\"value\": \"STMicroelectronics\", \"start\": 98, \"end\": 116, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 435,
+        "content": "That sent Micron's shares and the Philadelphia SE Semiconductor index <.SOX> down 5.7% and 4.3%, as investors looked past U.S. President Joe Biden signing a landmark bill for $52.7 billion in subsidies for semiconductor production and research. Micron Chief Executive Sanjay Mehrotra was among the attendees at the signing. [nL1N2ZL17Z]",
+        "input": "That sent Micron's shares and the Philadelphia SE Semiconductor index <.SOX> down 5.7% and 4.3%, as investors looked past U.S. President Joe Biden signing a landmark bill for $52.7 billion in subsidies for semiconductor production and research. Micron Chief Executive Sanjay Mehrotra was among the attendees at the signing. [nL1N2ZL17Z]",
+        "output": "{\"value\": \"Micron\", \"start\": 10, \"end\": 16, \"tag\": \"Negative\"}\n{\"value\": \"Philadelphia SE Semiconductor index\", \"start\": 34, \"end\": 69, \"tag\": \"Negative\"}\n{\"value\": \"Micron\", \"start\": 245, \"end\": 251, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 31,
+        "content": "But the share price outperformer is Denmark-based IT consultancy company Netcompany <NETCG.CO>, with shares rising 20.5% after some upbeat Q3 financials. ",
+        "input": "But the share price outperformer is Denmark-based IT consultancy company Netcompany <NETCG.CO>, with shares rising 20.5% after some upbeat Q3 financials. ",
+        "output": "{\"value\": \"Netcompany\", \"start\": 73, \"end\": 83, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 360,
+        "content": "In July, Gebbia said he would take on an advisory role at Airbnb, stepping away from his full-time role after 14 years at the company. The Airbnb co-founder had in 2018 called Musk's attempt to take Tesla private a \"baller move\".",
+        "input": "In July, Gebbia said he would take on an advisory role at Airbnb, stepping away from his full-time role after 14 years at the company. The Airbnb co-founder had in 2018 called Musk's attempt to take Tesla private a \"baller move\".",
+        "output": "{\"value\": \"Airbnb\", \"start\": 58, \"end\": 64, \"tag\": \"Neutral\"}\n{\"value\": \"Airbnb\", \"start\": 139, \"end\": 145, \"tag\": \"Neutral\"}\n{\"value\": \"Tesla\", \"start\": 199, \"end\": 204, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 146,
+        "content": "Edenred has benefited this year from staff shortages and rising inflation that have pushed employers to spend more on workers' benefits. Shares have climbed by more than 40%.",
+        "input": "Edenred has benefited this year from staff shortages and rising inflation that have pushed employers to spend more on workers' benefits. Shares have climbed by more than 40%.",
+        "output": "{\"value\": \"Edenred\", \"start\": 0, \"end\": 7, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 55,
+        "content": "Overall, resilient corporate fundamentals and continued but peaking core inflation pressures make the case for additional hikes, albeit at a slower pace, to account for the slowdown in economic growth, GS economists said.  ",
+        "input": "Overall, resilient corporate fundamentals and continued but peaking core inflation pressures make the case for additional hikes, albeit at a slower pace, to account for the slowdown in economic growth, GS economists said.  ",
+        "output": "{\"value\": \"GS\", \"start\": 202, \"end\": 204, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 783,
+        "content": "Shares of smaller electric-vehicle makers including Rivian Automotive Inc <RIVN.O>, Fisker Inc <FSR.N> and Lucid Group <LCID.O> were also down between 2.7% and 6.8% in early trading.",
+        "input": "Shares of smaller electric-vehicle makers including Rivian Automotive Inc <RIVN.O>, Fisker Inc <FSR.N> and Lucid Group <LCID.O> were also down between 2.7% and 6.8% in early trading.",
+        "output": "{\"value\": \"Rivian Automotive Inc\", \"start\": 52, \"end\": 73, \"tag\": \"Negative\"}\n{\"value\": \"Fisker Inc\", \"start\": 84, \"end\": 94, \"tag\": \"Negative\"}\n{\"value\": \"Lucid Group\", \"start\": 107, \"end\": 118, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 263,
+        "content": "Both the LME and ShFE, where stocks are even more depleted, are struggling to price simultaneously a growing global nickel surplus and a tight Class I supply chain. ",
+        "input": "Both the LME and ShFE, where stocks are even more depleted, are struggling to price simultaneously a growing global nickel surplus and a tight Class I supply chain. ",
+        "output": "{\"value\": \"LME\", \"start\": 9, \"end\": 12, \"tag\": \"Negative\"}\n{\"value\": \"ShFE\", \"start\": 17, \"end\": 21, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 112,
+        "content": "The combination of stubborn supply disruptions and elevated energy prices will prevent producer prices from reverting to more normal patterns until later this year,\" writes Mahir Rasheed, U.S. economist at Oxford Economics, adding that the report's \"reinforce the case for the FOMC to commence rate liftoff at next month's policy meeting with a rate hike of at least 25 (basis points).\"",
+        "input": "The combination of stubborn supply disruptions and elevated energy prices will prevent producer prices from reverting to more normal patterns until later this year,\" writes Mahir Rasheed, U.S. economist at Oxford Economics, adding that the report's \"reinforce the case for the FOMC to commence rate liftoff at next month's policy meeting with a rate hike of at least 25 (basis points).\"",
+        "output": "{\"value\": \"Oxford Economics\", \"start\": 206, \"end\": 222, \"tag\": \"Neutral\"}\n{\"value\": \"FOMC\", \"start\": 277, \"end\": 281, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 277,
+        "content": "    The sweeping rules have hit chip stocks, with the Philadelphia Semiconductor Index (.SOX) falling nearly 6% by the end of the day. American semiconductor equipment makers Lam Research Corp <LRCX.O>, Applied Materials Inc <AMAT.O> and KLA Corp <KLAC.O> were all down more than 4%.   ",
+        "input": "    The sweeping rules have hit chip stocks, with the Philadelphia Semiconductor Index (.SOX) falling nearly 6% by the end of the day. American semiconductor equipment makers Lam Research Corp <LRCX.O>, Applied Materials Inc <AMAT.O> and KLA Corp <KLAC.O> were all down more than 4%.   ",
+        "output": "{\"value\": \"Philadelphia Semiconductor Index\", \"start\": 54, \"end\": 86, \"tag\": \"Negative\"}\n{\"value\": \"Lam Research Corp\", \"start\": 175, \"end\": 192, \"tag\": \"Negative\"}\n{\"value\": \"Applied Materials Inc\", \"start\": 203, \"end\": 224, \"tag\": \"Negative\"}\n{\"value\": \"KLA Corp\", \"start\": 238, \"end\": 246, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 452,
+        "content": "QatarEnergy and German utility firms have been thrashing out long-term LNG deals for much of this year as Berlin looks for alternatives to Russia, which is Germany's biggest gas supplier.",
+        "input": "QatarEnergy and German utility firms have been thrashing out long-term LNG deals for much of this year as Berlin looks for alternatives to Russia, which is Germany's biggest gas supplier.",
+        "output": "{\"value\": \"QatarEnergy\", \"start\": 0, \"end\": 11, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 323,
+        "content": "Shares of megacap tech and other growth companies such as Tesla <TSLA.O>  Amazon.com <AMZN.O> and Alphabet <GOOGL.O> were down between 0.3% and 1.4%.",
+        "input": "Shares of megacap tech and other growth companies such as Tesla <TSLA.O>  Amazon.com <AMZN.O> and Alphabet <GOOGL.O> were down between 0.3% and 1.4%.",
+        "output": "{\"value\": \"Tesla\", \"start\": 58, \"end\": 63, \"tag\": \"Negative\"}\n{\"value\": \"Amazon.com\", \"start\": 74, \"end\": 84, \"tag\": \"Negative\"}\n{\"value\": \"Alphabet\", \"start\": 98, \"end\": 106, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 439,
+        "content": "Bit Chute Ltd was incorporated in Britain in 2017 by Vahey and two other Brits. Rich Jones, a software developer by training, is the company\ufffd\ufffds chief operations officer. He is 53, lives in England and, on his LinkedIn page, describes Vahey as \ufffd\ufffda former classmate and long-time friend.\ufffd\ufffd Jones also declined to comment.",
+        "input": "Bit Chute Ltd was incorporated in Britain in 2017 by Vahey and two other Brits. Rich Jones, a software developer by training, is the company\ufffd\ufffds chief operations officer. He is 53, lives in England and, on his LinkedIn page, describes Vahey as \ufffd\ufffda former classmate and long-time friend.\ufffd\ufffd Jones also declined to comment.",
+        "output": "{\"value\": \"Bit Chute Ltd\", \"start\": 0, \"end\": 13, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 717,
+        "content": "Last week, the Nasdaq Composite <.IXIC> flirted with its bear-market lows. In fact, on Thursday, it ended down 35.6% from its Nov. 19, 2021 record finish. ",
+        "input": "Last week, the Nasdaq Composite <.IXIC> flirted with its bear-market lows. In fact, on Thursday, it ended down 35.6% from its Nov. 19, 2021 record finish. ",
+        "output": "{\"value\": \"Nasdaq Composite\", \"start\": 15, \"end\": 31, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 74,
+        "content": "Megacap stocks including Tesla Inc <TSLA.O>, Amazon.com <AMZN.O>, Microsoft Corp <MSFT.O>, Meta Platforms <FB.O>, Apple Inc <AAPL.O> and Google owner-Alphabet Inc <GOOGL.O> gained over 0.5% each.",
+        "input": "Megacap stocks including Tesla Inc <TSLA.O>, Amazon.com <AMZN.O>, Microsoft Corp <MSFT.O>, Meta Platforms <FB.O>, Apple Inc <AAPL.O> and Google owner-Alphabet Inc <GOOGL.O> gained over 0.5% each.",
+        "output": "{\"value\": \"Tesla Inc\", \"start\": 25, \"end\": 34, \"tag\": \"Positive\"}\n{\"value\": \"Amazon.com\", \"start\": 45, \"end\": 55, \"tag\": \"Positive\"}\n{\"value\": \"Microsoft Corp\", \"start\": 66, \"end\": 80, \"tag\": \"Positive\"}\n{\"value\": \"Meta Platforms\", \"start\": 91, \"end\": 105, \"tag\": \"Positive\"}\n{\"value\": \"Apple Inc\", \"start\": 114, \"end\": 123, \"tag\": \"Positive\"}\n{\"value\": \"Google\", \"start\": 137, \"end\": 143, \"tag\": \"Positive\"}\n{\"value\": \"Alphabet Inc\", \"start\": 150, \"end\": 162, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 316,
+        "content": "Energy price woes are back at the forefront, stoking recession fears and yesterday prompting Citi to warn UK inflation could hit 18.6% in January [nL8N2ZY3GV]. ",
+        "input": "Energy price woes are back at the forefront, stoking recession fears and yesterday prompting Citi to warn UK inflation could hit 18.6% in January [nL8N2ZY3GV]. ",
+        "output": "{\"value\": \"Citi\", \"start\": 93, \"end\": 97, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 513,
+        "content": "The S&P/ASX 200 <.AXJO> closed 0.4% higher at 6,650.60 points, extending gains to a third consecutive session. The benchmark had risen 0.2% on Wednesday.",
+        "input": "The S&P/ASX 200 <.AXJO> closed 0.4% higher at 6,650.60 points, extending gains to a third consecutive session. The benchmark had risen 0.2% on Wednesday.",
+        "output": "{\"value\": \"S&P/ASX 200\", \"start\": 4, \"end\": 15, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 381,
+        "content": "Meta, once worth more than $1 trillion, is now valued at $256 billion after losing more than 70% of its value this year alone.",
+        "input": "Meta, once worth more than $1 trillion, is now valued at $256 billion after losing more than 70% of its value this year alone.",
+        "output": "{\"value\": \"Meta\", \"start\": 0, \"end\": 4, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 234,
+        "content": "U.S. accounting firms that agree to lead audits of New York-listed Chinese and Hong Kong companies looking to avoid potential trading bans risk breaching U.S. rules, the U.S. Securities and Exchange Commission (SEC) warned on Tuesday. [nL1N30D1Q9]    ",
+        "input": "U.S. accounting firms that agree to lead audits of New York-listed Chinese and Hong Kong companies looking to avoid potential trading bans risk breaching U.S. rules, the U.S. Securities and Exchange Commission (SEC) warned on Tuesday. [nL1N30D1Q9]    ",
+        "output": "{\"value\": \"U.S. Securities and Exchange Commission\", \"start\": 170, \"end\": 209, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 580,
+        "content": "With the coming of much colder weather, Refinitiv projected average U.S. gas demand, including exports, would jump from 98.6 bcfd this week to 121.4 bcfd next week. Those forecasts were slightly higher than Refinitiv's outlook on Tuesday.",
+        "input": "With the coming of much colder weather, Refinitiv projected average U.S. gas demand, including exports, would jump from 98.6 bcfd this week to 121.4 bcfd next week. Those forecasts were slightly higher than Refinitiv's outlook on Tuesday.",
+        "output": "{\"value\": \"Refinitiv\", \"start\": 40, \"end\": 49, \"tag\": \"Neutral\"}\n{\"value\": \"Refinitiv\", \"start\": 207, \"end\": 216, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 763,
+        "content": "With hotter weather expected, Refinitiv projected that average U.S. gas demand including exports would rise from 98.9 bcfd this week to 100.8 bcfd next week before sliding to 99.2 bcfd in two weeks as heat starts to ease. Refinitiv's forecasts for this week and next were lower than on Thursday.",
+        "input": "With hotter weather expected, Refinitiv projected that average U.S. gas demand including exports would rise from 98.9 bcfd this week to 100.8 bcfd next week before sliding to 99.2 bcfd in two weeks as heat starts to ease. Refinitiv's forecasts for this week and next were lower than on Thursday.",
+        "output": "{\"value\": \"Refinitiv\", \"start\": 30, \"end\": 39, \"tag\": \"Neutral\"}\n{\"value\": \"Refinitiv\", \"start\": 222, \"end\": 231, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 247,
+        "content": "Asset managers such as BlackRock and abrdn are halting purchases of Russian securities or plan to reduce existing holdings as western governments impose tough sanctions on Russia.",
+        "input": "Asset managers such as BlackRock and abrdn are halting purchases of Russian securities or plan to reduce existing holdings as western governments impose tough sanctions on Russia.",
+        "output": "{\"value\": \"BlackRock\", \"start\": 23, \"end\": 32, \"tag\": \"Neutral\"}\n{\"value\": \"abrdn\", \"start\": 37, \"end\": 42, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 913,
+        "content": "United Shipbuilding is clearly described as an Extreme customer in email correspondence. In April 2020, an intermediary contacted Extreme's office in Moscow to submit the plan the intermediary had sketched out to modernize United Shipbuilding's data center.",
+        "input": "United Shipbuilding is clearly described as an Extreme customer in email correspondence. In April 2020, an intermediary contacted Extreme's office in Moscow to submit the plan the intermediary had sketched out to modernize United Shipbuilding's data center.",
+        "output": "{\"value\": \"United Shipbuilding\", \"start\": 0, \"end\": 19, \"tag\": \"Neutral\"}\n{\"value\": \"Extreme\", \"start\": 47, \"end\": 54, \"tag\": \"Neutral\"}\n{\"value\": \"Extreme\", \"start\": 130, \"end\": 137, \"tag\": \"Neutral\"}\n{\"value\": \"United Shipbuilding\", \"start\": 223, \"end\": 242, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 54,
+        "content": "Shares of Tesla Inc <TSLA.O> rose 1.2% in premarket trading. Other growth stocks such as Apple Inc <AAPL.O>, Amazon.com Inc <AMZN.O> and Meta Platforms Inc <META.O> rose between 0.2% and 0.6%.",
+        "input": "Shares of Tesla Inc <TSLA.O> rose 1.2% in premarket trading. Other growth stocks such as Apple Inc <AAPL.O>, Amazon.com Inc <AMZN.O> and Meta Platforms Inc <META.O> rose between 0.2% and 0.6%.",
+        "output": "{\"value\": \"Tesla Inc\", \"start\": 10, \"end\": 19, \"tag\": \"Positive\"}\n{\"value\": \"Apple Inc\", \"start\": 89, \"end\": 98, \"tag\": \"Positive\"}\n{\"value\": \"Amazon.com Inc\", \"start\": 109, \"end\": 123, \"tag\": \"Positive\"}\n{\"value\": \"Meta Platforms Inc\", \"start\": 137, \"end\": 155, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 47,
+        "content": "Nonetheless, a strong performance early in the week means all three indices are set for their biggest weekly percentage gain since late July, with the Stoxx up 1.3% on the week. ",
+        "input": "Nonetheless, a strong performance early in the week means all three indices are set for their biggest weekly percentage gain since late July, with the Stoxx up 1.3% on the week. ",
+        "output": "{\"value\": \"Stoxx\", \"start\": 151, \"end\": 156, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 214,
+        "content": "\"Companies are reporting increasing headwinds from the rising cost of living, tightening financial conditions \ufffdC notably higher borrowing costs \ufffdC and weakened demand across both home and export markets,\" writes Chris Williamson, chief business economist at S&P Global. ",
+        "input": "\"Companies are reporting increasing headwinds from the rising cost of living, tightening financial conditions \ufffdC notably higher borrowing costs \ufffdC and weakened demand across both home and export markets,\" writes Chris Williamson, chief business economist at S&P Global. ",
+        "output": "{\"value\": \"S&P Global\", \"start\": 256, \"end\": 266, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 449,
+        "content": "** Abu Dhabi investment firm Chimera Investment LLC said it has acquired a controlling stake in Egypt's Beltone Financial Holding <BTFH.CA>, part of a strategy to expand in the Middle East and North Africa region. [nL4N2ZL2AH]",
+        "input": "** Abu Dhabi investment firm Chimera Investment LLC said it has acquired a controlling stake in Egypt's Beltone Financial Holding <BTFH.CA>, part of a strategy to expand in the Middle East and North Africa region. [nL4N2ZL2AH]",
+        "output": "{\"value\": \"Chimera Investment LLC\", \"start\": 29, \"end\": 51, \"tag\": \"Neutral\"}\n{\"value\": \"Beltone Financial Holding\", \"start\": 104, \"end\": 129, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 246,
+        "content": "Local Energy stocks <.AXEJ> skid 1.4% on lower oil prices, with oil and gas major Woodside Energy <WDS.AX> and Santos <STO.AX> dropping about 1% and 1.6%, respectively. [O/R]",
+        "input": "Local Energy stocks <.AXEJ> skid 1.4% on lower oil prices, with oil and gas major Woodside Energy <WDS.AX> and Santos <STO.AX> dropping about 1% and 1.6%, respectively. [O/R]",
+        "output": "{\"value\": \"Local Energy stocks\", \"start\": 0, \"end\": 19, \"tag\": \"Negative\"}\n{\"value\": \"Woodside Energy\", \"start\": 82, \"end\": 97, \"tag\": \"Negative\"}\n{\"value\": \"Santos\", \"start\": 111, \"end\": 117, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 483,
+        "content": "    Earlier in September, AIG Inc's life insurance and retirement division Corebridge Financial Inc <CRBG.N> raised $1.68 billion in the year's biggest IPO, braving market volatility and ending a seven-month lull in major listings. [nL1N30L2X0]   ",
+        "input": "    Earlier in September, AIG Inc's life insurance and retirement division Corebridge Financial Inc <CRBG.N> raised $1.68 billion in the year's biggest IPO, braving market volatility and ending a seven-month lull in major listings. [nL1N30L2X0]   ",
+        "output": "{\"value\": \"AIG Inc\", \"start\": 26, \"end\": 33, \"tag\": \"Positive\"}\n{\"value\": \"Corebridge Financial Inc\", \"start\": 75, \"end\": 99, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 631,
+        "content": "Silverstone-based Aston Martin could seek another experienced winner, perhaps even a champion, a promising young gun or complete rookie. There are drivers out there in all categories.",
+        "input": "Silverstone-based Aston Martin could seek another experienced winner, perhaps even a champion, a promising young gun or complete rookie. There are drivers out there in all categories.",
+        "output": "{\"value\": \"Aston Martin\", \"start\": 18, \"end\": 30, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 853,
+        "content": "One way of quantifying the hit is to look at how much higher energy bills will be, based on forward gas prices. Utilities analysts at Goldman Sachs calculate customers will have to pay 1.3 trillion euros more next year than last year \ufffdC even if prices are capped at a level that stops power generators making excess profits.",
+        "input": "One way of quantifying the hit is to look at how much higher energy bills will be, based on forward gas prices. Utilities analysts at Goldman Sachs calculate customers will have to pay 1.3 trillion euros more next year than last year \ufffdC even if prices are capped at a level that stops power generators making excess profits.",
+        "output": "{\"value\": \"Goldman Sachs\", \"start\": 134, \"end\": 147, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 300,
+        "content": "Other social media companies were also expected to fall hard when trading resumes, including Twitter <TWTR.N>, Pinterest <PINS.N> and Spotify <SPOT.N>, which also gave a disappointing update and has been beset by a COVID-19 vaccination misinformation dispute. [nL1N2UD2OG]",
+        "input": "Other social media companies were also expected to fall hard when trading resumes, including Twitter <TWTR.N>, Pinterest <PINS.N> and Spotify <SPOT.N>, which also gave a disappointing update and has been beset by a COVID-19 vaccination misinformation dispute. [nL1N2UD2OG]",
+        "output": "{\"value\": \"Twitter\", \"start\": 93, \"end\": 100, \"tag\": \"Negative\"}\n{\"value\": \"Pinterest\", \"start\": 111, \"end\": 120, \"tag\": \"Negative\"}\n{\"value\": \"Spotify\", \"start\": 134, \"end\": 141, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 621,
+        "content": "Though JetBlue's $3.7 billion offer is higher, Spirit has repeatedly touted Frontier's bid, citing higher long-term benefits and fewer regulatory risks compared with JetBlue.",
+        "input": "Though JetBlue's $3.7 billion offer is higher, Spirit has repeatedly touted Frontier's bid, citing higher long-term benefits and fewer regulatory risks compared with JetBlue.",
+        "output": "{\"value\": \"JetBlue\", \"start\": 7, \"end\": 14, \"tag\": \"Neutral\"}\n{\"value\": \"Spirit\", \"start\": 47, \"end\": 53, \"tag\": \"Neutral\"}\n{\"value\": \"Frontier\", \"start\": 76, \"end\": 84, \"tag\": \"Neutral\"}\n{\"value\": \"JetBlue\", \"start\": 166, \"end\": 173, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 309,
+        "content": "In terms of single stocks, Dutch medical equipment maker Philips <PHG.AS> is the worse performer, down more than 10% after reporting a worse-than-expected drop in second-quarter core earnings, citing supply shortages and lockdowns in China. [nL1N2Z5097]",
+        "input": "In terms of single stocks, Dutch medical equipment maker Philips <PHG.AS> is the worse performer, down more than 10% after reporting a worse-than-expected drop in second-quarter core earnings, citing supply shortages and lockdowns in China. [nL1N2Z5097]",
+        "output": "{\"value\": \"Philips\", \"start\": 57, \"end\": 64, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 163,
+        "content": "Uber Technologies <UBER.N> surged after giving an upbeat fourth-quarter profit view that also lifted shares of its peers Lyft Inc <LYFT.O> and DoorDash <DASH.N>.",
+        "input": "Uber Technologies <UBER.N> surged after giving an upbeat fourth-quarter profit view that also lifted shares of its peers Lyft Inc <LYFT.O> and DoorDash <DASH.N>.",
+        "output": "{\"value\": \"Uber Technologies\", \"start\": 0, \"end\": 17, \"tag\": \"Positive\"}\n{\"value\": \"Lyft Inc\", \"start\": 121, \"end\": 129, \"tag\": \"Positive\"}\n{\"value\": \"DoorDash\", \"start\": 143, \"end\": 151, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 39,
+        "content": "Goldman Sachs Group Inc <GS.N> gained 2.33% after reporting a smaller-than-expected drop in quarterly profit as a boost in net interest income cushioned the blow from a slowdown in investment banking.",
+        "input": "Goldman Sachs Group Inc <GS.N> gained 2.33% after reporting a smaller-than-expected drop in quarterly profit as a boost in net interest income cushioned the blow from a slowdown in investment banking.",
+        "output": "{\"value\": \"Goldman Sachs Group Inc\", \"start\": 0, \"end\": 23, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 484,
+        "content": "Global asset managers including BlackRock <BLK.N> and Fidelity have boosted their presence in China in recent years, partly lured by its nascent private pension sector that is expected to surpass $1.7 trillion by 2025 from $300 billion now.",
+        "input": "Global asset managers including BlackRock <BLK.N> and Fidelity have boosted their presence in China in recent years, partly lured by its nascent private pension sector that is expected to surpass $1.7 trillion by 2025 from $300 billion now.",
+        "output": "{\"value\": \"BlackRock\", \"start\": 32, \"end\": 41, \"tag\": \"Neutral\"}\n{\"value\": \"Fidelity\", \"start\": 54, \"end\": 62, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 845,
+        "content": "Musk, CEO of SpaceX, and Neuralink and Boring Company, said on Wednesday that he does not have a current plan to combine them with Twitter under one umbrella.  (Reporting by Hyunjoo Jin and Peter Henderson in San Francisco and Akash Sriram in Bangalore; Editing by Sandra Maler)  ((peter.henderson@thomsonreuters.com; 323 251 4827;))",
+        "input": "Musk, CEO of SpaceX, and Neuralink and Boring Company, said on Wednesday that he does not have a current plan to combine them with Twitter under one umbrella.  (Reporting by Hyunjoo Jin and Peter Henderson in San Francisco and Akash Sriram in Bangalore; Editing by Sandra Maler)  ((peter.henderson@thomsonreuters.com; 323 251 4827;))",
+        "output": "{\"value\": \"SpaceX\", \"start\": 13, \"end\": 19, \"tag\": \"Neutral\"}\n{\"value\": \"Neuralink\", \"start\": 25, \"end\": 34, \"tag\": \"Neutral\"}\n{\"value\": \"Boring Company\", \"start\": 39, \"end\": 53, \"tag\": \"Neutral\"}\n{\"value\": \"Twitter\", \"start\": 131, \"end\": 138, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 129,
+        "content": "McMullen said the combined entity could better compete head to head with \"larger, non-union\" grocers - a reference to players such as Walmart Inc <WMT.N> and Target Corp <TGT.N>, both of which also sell groceries. ",
+        "input": "McMullen said the combined entity could better compete head to head with \"larger, non-union\" grocers - a reference to players such as Walmart Inc <WMT.N> and Target Corp <TGT.N>, both of which also sell groceries. ",
+        "output": "{\"value\": \"Walmart Inc\", \"start\": 134, \"end\": 145, \"tag\": \"Neutral\"}\n{\"value\": \"Target Corp\", \"start\": 158, \"end\": 169, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 721,
+        "content": "Oil majors Exxon Mobil Corp <XOM.N> and Chevron Corp <CVX.N> rose about 0.2% each in premarket trading after crude prices extended their rally on fears of tighter global supply. [O/R]",
+        "input": "Oil majors Exxon Mobil Corp <XOM.N> and Chevron Corp <CVX.N> rose about 0.2% each in premarket trading after crude prices extended their rally on fears of tighter global supply. [O/R]",
+        "output": "{\"value\": \"Exxon Mobil Corp\", \"start\": 11, \"end\": 27, \"tag\": \"Positive\"}\n{\"value\": \"Chevron Corp\", \"start\": 40, \"end\": 52, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 866,
+        "content": "Rome, \"Auxiliary Corporate Governance Conference\" continues; ends on Oct. 14. On Thursday expected attendees include market regulator CONSOB Commissioner Chiara Mosca (1350 GMT).",
+        "input": "Rome, \"Auxiliary Corporate Governance Conference\" continues; ends on Oct. 14. On Thursday expected attendees include market regulator CONSOB Commissioner Chiara Mosca (1350 GMT).",
+        "output": "{\"value\": \"CONSOB\", \"start\": 134, \"end\": 140, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 668,
+        "content": "Spotify CEO Daniel Ek said late on Sunday that he might disagree with the views of some individuals on the platform but that it was \"important to me that we don't take on the position of being content censor.\"",
+        "input": "Spotify CEO Daniel Ek said late on Sunday that he might disagree with the views of some individuals on the platform but that it was \"important to me that we don't take on the position of being content censor.\"",
+        "output": "{\"value\": \"Spotify\", \"start\": 0, \"end\": 7, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 972,
+        "content": "According to preliminary data, the S&P 500 <.SPX> lost 28.89 points, or 0.75%, to end at 3,830.22 points, while the Nasdaq Composite <.IXIC> lost 229.67 points, or 2.05%, to 10,969.45. The Dow Jones Industrial Average <.DJI> rose 3.49 points, or 0.01%, to 31,840.23.",
+        "input": "According to preliminary data, the S&P 500 <.SPX> lost 28.89 points, or 0.75%, to end at 3,830.22 points, while the Nasdaq Composite <.IXIC> lost 229.67 points, or 2.05%, to 10,969.45. The Dow Jones Industrial Average <.DJI> rose 3.49 points, or 0.01%, to 31,840.23.",
+        "output": "{\"value\": \"S&P 500\", \"start\": 35, \"end\": 42, \"tag\": \"Negative\"}\n{\"value\": \"Nasdaq Composite\", \"start\": 116, \"end\": 132, \"tag\": \"Negative\"}\n{\"value\": \"Dow Jones Industrial Average\", \"start\": 189, \"end\": 217, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 644,
+        "content": "With respect to its economic outlook, the bank released $48 million of reserves in the quarter, compared to rival banks JPMorgan Chase & Co <JPM.N> and Wells Fargo & Co <WFC.N>, which boosted loss provisions in the quarter. BofA's total loan loss provisions as of June 30 were $500 million.",
+        "input": "With respect to its economic outlook, the bank released $48 million of reserves in the quarter, compared to rival banks JPMorgan Chase & Co <JPM.N> and Wells Fargo & Co <WFC.N>, which boosted loss provisions in the quarter. BofA's total loan loss provisions as of June 30 were $500 million.",
+        "output": "{\"value\": \"JPMorgan Chase & Co\", \"start\": 120, \"end\": 139, \"tag\": \"Neutral\"}\n{\"value\": \"Wells Fargo & Co\", \"start\": 152, \"end\": 168, \"tag\": \"Neutral\"}\n{\"value\": \"BofA\", \"start\": 224, \"end\": 228, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 912,
+        "content": "A survey by industry group Make UK of 132 companies, conducted just before Russia's invasion of Ukraine, showed that over two-fifths had increased their British supply base, with almost a fifth describing it as a \"significant re-routing\". ",
+        "input": "A survey by industry group Make UK of 132 companies, conducted just before Russia's invasion of Ukraine, showed that over two-fifths had increased their British supply base, with almost a fifth describing it as a \"significant re-routing\". ",
+        "output": "{\"value\": \"Make UK\", \"start\": 27, \"end\": 34, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 649,
+        "content": "Mercedes' Hamilton has a record 103 wins and 188 podiums from 303 starts. The seven-times world champion last won a race in Saudi Arabia in December and is now on the longest streak of his career without a win.",
+        "input": "Mercedes' Hamilton has a record 103 wins and 188 podiums from 303 starts. The seven-times world champion last won a race in Saudi Arabia in December and is now on the longest streak of his career without a win.",
+        "output": "{\"value\": \"Mercedes\", \"start\": 0, \"end\": 8, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 480,
+        "content": "European and Asian stock markets tracked a Wall Street rally on Friday, when better-than-expected earnings and easing worries of a big 100-basis-point rate hike by the Federal Reserve this month boosted sentiment. [.N]",
+        "input": "European and Asian stock markets tracked a Wall Street rally on Friday, when better-than-expected earnings and easing worries of a big 100-basis-point rate hike by the Federal Reserve this month boosted sentiment. [.N]",
+        "output": "{\"value\": \"Federal Reserve\", \"start\": 168, \"end\": 183, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 347,
+        "content": "Roughly 260 billion euros ($254 bln) of euro zone government bonds carried negative yields as of end-September, Tradeweb said, down from around 542 billion euros at end-August. ",
+        "input": "Roughly 260 billion euros ($254 bln) of euro zone government bonds carried negative yields as of end-September, Tradeweb said, down from around 542 billion euros at end-August. ",
+        "output": "{\"value\": \"Tradeweb\", \"start\": 112, \"end\": 120, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 960,
+        "content": "Investors were seeking assurances that the enterprise cloud business is still growing strongly and will also scrutinize upcoming financial reports from Microsoft rivals Amazon.com Inc  <AMZN.O> and Alphabet Inc's <GOOGL.O> Google.",
+        "input": "Investors were seeking assurances that the enterprise cloud business is still growing strongly and will also scrutinize upcoming financial reports from Microsoft rivals Amazon.com Inc  <AMZN.O> and Alphabet Inc's <GOOGL.O> Google.",
+        "output": "{\"value\": \"Microsoft\", \"start\": 152, \"end\": 161, \"tag\": \"Neutral\"}\n{\"value\": \"Amazon.com Inc\", \"start\": 169, \"end\": 183, \"tag\": \"Neutral\"}\n{\"value\": \"Alphabet Inc\", \"start\": 198, \"end\": 210, \"tag\": \"Neutral\"}\n{\"value\": \"Google\", \"start\": 223, \"end\": 229, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 82,
+        "content": "\"Including today's rate hike, the RBI has raised effective policy rate by 155 bps this year through a series of rate hikes and liquidity tightening measures \ufffd\ufffd i.e. from 3.35% reverse repo to revised 4.90% repo rate. We expect peak repo rate in the current tightening cycle at 6% given that CPI inflation is likely to average 5% to 5.5% in 12 to 18 months from now.\"",
+        "input": "\"Including today's rate hike, the RBI has raised effective policy rate by 155 bps this year through a series of rate hikes and liquidity tightening measures \ufffd\ufffd i.e. from 3.35% reverse repo to revised 4.90% repo rate. We expect peak repo rate in the current tightening cycle at 6% given that CPI inflation is likely to average 5% to 5.5% in 12 to 18 months from now.\"",
+        "output": "{\"value\": \"RBI\", \"start\": 34, \"end\": 37, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 755,
+        "content": "The standoff between U.S. railroad operators and their union workers disrupted flows of hazardous materials such as chemicals used in fertilizer and disrupted U.S. passenger railroad Amtrak service in September as railroads prepared for a possible work stoppage. ",
+        "input": "The standoff between U.S. railroad operators and their union workers disrupted flows of hazardous materials such as chemicals used in fertilizer and disrupted U.S. passenger railroad Amtrak service in September as railroads prepared for a possible work stoppage. ",
+        "output": "{\"value\": \"Amtrak\", \"start\": 183, \"end\": 189, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 894,
+        "content": "\"It's important to remember the lesson we all learned years ago, and that's don't fight the Fed,\" said Oliver Pursche, senior vice president at Wealthspire Advisors in New York. \"And the Fed is telling us that they're laser-focused on inflation.\"",
+        "input": "\"It's important to remember the lesson we all learned years ago, and that's don't fight the Fed,\" said Oliver Pursche, senior vice president at Wealthspire Advisors in New York. \"And the Fed is telling us that they're laser-focused on inflation.\"",
+        "output": "{\"value\": \"Fed\", \"start\": 92, \"end\": 95, \"tag\": \"Neutral\"}\n{\"value\": \"Wealthspire Advisors\", \"start\": 144, \"end\": 164, \"tag\": \"Neutral\"}\n{\"value\": \"Fed\", \"start\": 187, \"end\": 190, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 838,
+        "content": "UBS analysts say that \ufffd\ufffdthe basic reason the FOMC does not need to raise rates by 50 bps is that they can signal a higher path, tighten financial conditions further and do so in a more methodical and less disruptive way.\ufffd\ufffd",
+        "input": "UBS analysts say that \ufffd\ufffdthe basic reason the FOMC does not need to raise rates by 50 bps is that they can signal a higher path, tighten financial conditions further and do so in a more methodical and less disruptive way.\ufffd\ufffd",
+        "output": "{\"value\": \"UBS\", \"start\": 0, \"end\": 3, \"tag\": \"Neutral\"}\n{\"value\": \"FOMC\", \"start\": 44, \"end\": 48, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 896,
+        "content": "\"PMI is the bidder that can afford to pay the most, since they have very little overlap with Swedish Match today,\" he said. \"All other industrial buyers would run into all kinds of divestment troubles.\" ",
+        "input": "\"PMI is the bidder that can afford to pay the most, since they have very little overlap with Swedish Match today,\" he said. \"All other industrial buyers would run into all kinds of divestment troubles.\" ",
+        "output": "{\"value\": \"PMI\", \"start\": 1, \"end\": 4, \"tag\": \"Neutral\"}\n{\"value\": \"Swedish Match\", \"start\": 93, \"end\": 106, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 616,
+        "content": "Calling the surge in defense aircraft orders \"exceptional,\" Ian Shepherdson, chief economist at Pantheon Macroeconomics, adds \"the surge in the headline does not change the bigger picture of a slowdown in spending, but it has not reached recession-type proportions.\" ",
+        "input": "Calling the surge in defense aircraft orders \"exceptional,\" Ian Shepherdson, chief economist at Pantheon Macroeconomics, adds \"the surge in the headline does not change the bigger picture of a slowdown in spending, but it has not reached recession-type proportions.\" ",
+        "output": "{\"value\": \"Pantheon Macroeconomics\", \"start\": 96, \"end\": 119, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 673,
+        "content": "Among companies reporting results, Take-Two Interactive Software Inc <TTWO.O> plunged 16.6% premarket after the videogame publisher lowered its annual sales outlook, while ride-hailing firm Lyft Inc <LYFT.O> dropped 16.3% on forecasting current-quarter revenue below Wall Street estimates.",
+        "input": "Among companies reporting results, Take-Two Interactive Software Inc <TTWO.O> plunged 16.6% premarket after the videogame publisher lowered its annual sales outlook, while ride-hailing firm Lyft Inc <LYFT.O> dropped 16.3% on forecasting current-quarter revenue below Wall Street estimates.",
+        "output": "{\"value\": \"Take-Two Interactive Software Inc\", \"start\": 35, \"end\": 68, \"tag\": \"Negative\"}\n{\"value\": \"Lyft Inc\", \"start\": 190, \"end\": 198, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 951,
+        "content": "Westpac Banking Corp <WBC.AX>, Australia's third-largest home lender, in May reduced a discount on assessed rental income to 10% from 20%, according to three of the sources.",
+        "input": "Westpac Banking Corp <WBC.AX>, Australia's third-largest home lender, in May reduced a discount on assessed rental income to 10% from 20%, according to three of the sources.",
+        "output": "{\"value\": \"Westpac Banking Corp\", \"start\": 0, \"end\": 20, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 789,
+        "content": "The Philadelphia semiconductor index <.SOX> is dropping 2.8%, down for a second straight session. Following a hefty rebound since the start of July, the SOX remains off 24% in 2022, with many investors speculating the chip industry is heading for its first revenue downturn since 2019.",
+        "input": "The Philadelphia semiconductor index <.SOX> is dropping 2.8%, down for a second straight session. Following a hefty rebound since the start of July, the SOX remains off 24% in 2022, with many investors speculating the chip industry is heading for its first revenue downturn since 2019.",
+        "output": "{\"value\": \"Philadelphia semiconductor index\", \"start\": 4, \"end\": 36, \"tag\": \"Negative\"}\n{\"value\": \"SOX\", \"start\": 153, \"end\": 156, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 512,
+        "content": "Among other stocks, home improvement retailer Lowe's Companies Inc <LOW.N> jumped 4.3% after increasing its annual profit forecast on steady demand.",
+        "input": "Among other stocks, home improvement retailer Lowe's Companies Inc <LOW.N> jumped 4.3% after increasing its annual profit forecast on steady demand.",
+        "output": "{\"value\": \"Lowe's Companies Inc\", \"start\": 46, \"end\": 66, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 661,
+        "content": "\"Earnings are coming in less bad than feared, but they're deteriorating from what we got used to and accustomed to over the last several quarters,\" said Bob Doll, CIO at Crossmark Global Investments.",
+        "input": "\"Earnings are coming in less bad than feared, but they're deteriorating from what we got used to and accustomed to over the last several quarters,\" said Bob Doll, CIO at Crossmark Global Investments.",
+        "output": "{\"value\": \"Crossmark Global Investments\", \"start\": 170, \"end\": 198, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 63,
+        "content": "A 7.6% rebound in Apple Inc <AAPL.O> helped soften the blow of the 6.8% plunge for Amazon.com <AMZN.O> shares, in the wake of the two market leaders' results.    ",
+        "input": "A 7.6% rebound in Apple Inc <AAPL.O> helped soften the blow of the 6.8% plunge for Amazon.com <AMZN.O> shares, in the wake of the two market leaders' results.    ",
+        "output": "{\"value\": \"Apple Inc\", \"start\": 18, \"end\": 27, \"tag\": \"Positive\"}\n{\"value\": \"Amazon.com\", \"start\": 83, \"end\": 93, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 620,
+        "content": "Mondelez said its 'Cocoa Life' scheme is now one of the four pillars of its long-term growth strategy, adding it hopes its new investment will help catalyze sector-wide collaboration to address environmental and human rights challenges in cocoa. ",
+        "input": "Mondelez said its 'Cocoa Life' scheme is now one of the four pillars of its long-term growth strategy, adding it hopes its new investment will help catalyze sector-wide collaboration to address environmental and human rights challenges in cocoa. ",
+        "output": "{\"value\": \"Mondelez\", \"start\": 0, \"end\": 8, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 556,
+        "content": "BofA continues to believe small caps are largely discounting recession risks, and that small cap value still looks like a bargain relative to small-cap growth. Indeed, despite economic concerns, BofA says that sectors with the best estimate revision trends are cyclicals, while consumer discretionary now ranks last.",
+        "input": "BofA continues to believe small caps are largely discounting recession risks, and that small cap value still looks like a bargain relative to small-cap growth. Indeed, despite economic concerns, BofA says that sectors with the best estimate revision trends are cyclicals, while consumer discretionary now ranks last.",
+        "output": "{\"value\": \"BofA\", \"start\": 0, \"end\": 4, \"tag\": \"Neutral\"}\n{\"value\": \"BofA\", \"start\": 195, \"end\": 199, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 503,
+        "content": "The companies with the highest buyback totals in Q2 were Apple <AAPL.O>, Alphabet <GOOGL.O>, Microsoft <MSFT.O>, Meta Platforms <META.O> and Lowe's <LOW.N>.",
+        "input": "The companies with the highest buyback totals in Q2 were Apple <AAPL.O>, Alphabet <GOOGL.O>, Microsoft <MSFT.O>, Meta Platforms <META.O> and Lowe's <LOW.N>.",
+        "output": "{\"value\": \"Apple\", \"start\": 57, \"end\": 62, \"tag\": \"Positive\"}\n{\"value\": \"Alphabet\", \"start\": 73, \"end\": 81, \"tag\": \"Positive\"}\n{\"value\": \"Microsoft\", \"start\": 93, \"end\": 102, \"tag\": \"Positive\"}\n{\"value\": \"Microsoft\", \"start\": 93, \"end\": 102, \"tag\": \"Positive\"}\n{\"value\": \"Meta Platforms\", \"start\": 113, \"end\": 127, \"tag\": \"Positive\"}\n{\"value\": \"Lowe's\", \"start\": 141, \"end\": 147, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 434,
+        "content": "Sportswear firm Adidas <ADSGn.DE> also quantified the cost of scaling back its operations, saying it would take a hit to sales of up to 250 million euros. [nL5N2VC10I] ",
+        "input": "Sportswear firm Adidas <ADSGn.DE> also quantified the cost of scaling back its operations, saying it would take a hit to sales of up to 250 million euros. [nL5N2VC10I] ",
+        "output": "{\"value\": \"Adidas\", \"start\": 16, \"end\": 22, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 779,
+        "content": "Russian-exposed stocks tried to rebound but overall the picture was mixed, showing investors still lacked conviction, while poorly-received earning updates from the likes of Flutter <FLTRF.L>, Hellofresh <HFGG.DE> and Zalando <ZALG.DE> added some gloom.",
+        "input": "Russian-exposed stocks tried to rebound but overall the picture was mixed, showing investors still lacked conviction, while poorly-received earning updates from the likes of Flutter <FLTRF.L>, Hellofresh <HFGG.DE> and Zalando <ZALG.DE> added some gloom.",
+        "output": "{\"value\": \"Flutter\", \"start\": 174, \"end\": 181, \"tag\": \"Negative\"}\n{\"value\": \"Hellofresh\", \"start\": 193, \"end\": 203, \"tag\": \"Negative\"}\n{\"value\": \"Zalando\", \"start\": 218, \"end\": 225, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 255,
+        "content": "Bed Bath & Beyond Inc <BBBY.O> tumbled 23.6% following the retailer's announcement that it had replaced chief executive officer Mark Tritton, hoping to reverse a slump. [nL4N2YG2C9]",
+        "input": "Bed Bath & Beyond Inc <BBBY.O> tumbled 23.6% following the retailer's announcement that it had replaced chief executive officer Mark Tritton, hoping to reverse a slump. [nL4N2YG2C9]",
+        "output": "{\"value\": \"Bed Bath & Beyond Inc\", \"start\": 0, \"end\": 21, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 850,
+        "content": "Board meetings on Q3 results: A2A <A2.MI>, Atlantia <ATL.MI>, Nexi <NEXII.MI>, Prysmian <PRY.MI> followed by conference call, Unipol <UNPI.MI>, Arnoldo Mondadori Editore <MOED.MI> followed by conference call, Banca Ifis <IF.MI>, Credito Emiliano <EMBI.MI>, doValue <DOVA.MI>, illimity Bank <ILTY.MI>, Banca Monte dei Paschi di Siena <BMPS.MI>, Rai Way <RWAY.MI> followed by conference call, RCS MediaGroup <RCSM.MI>, Seco <IOT.MI>, Tod's <TOD.MI>, UnipolSai <US.MI>, Webuild <WBD.MI>.",
+        "input": "Board meetings on Q3 results: A2A <A2.MI>, Atlantia <ATL.MI>, Nexi <NEXII.MI>, Prysmian <PRY.MI> followed by conference call, Unipol <UNPI.MI>, Arnoldo Mondadori Editore <MOED.MI> followed by conference call, Banca Ifis <IF.MI>, Credito Emiliano <EMBI.MI>, doValue <DOVA.MI>, illimity Bank <ILTY.MI>, Banca Monte dei Paschi di Siena <BMPS.MI>, Rai Way <RWAY.MI> followed by conference call, RCS MediaGroup <RCSM.MI>, Seco <IOT.MI>, Tod's <TOD.MI>, UnipolSai <US.MI>, Webuild <WBD.MI>.",
+        "output": "{\"value\": \"A2A\", \"start\": 30, \"end\": 33, \"tag\": \"Neutral\"}\n{\"value\": \"Atlantia\", \"start\": 43, \"end\": 51, \"tag\": \"Neutral\"}\n{\"value\": \"Nexi\", \"start\": 62, \"end\": 66, \"tag\": \"Neutral\"}\n{\"value\": \"Prysmian\", \"start\": 79, \"end\": 87, \"tag\": \"Neutral\"}\n{\"value\": \"Unipol\", \"start\": 126, \"end\": 132, \"tag\": \"Neutral\"}\n{\"value\": \"Arnoldo Mondadori Editore\", \"start\": 144, \"end\": 169, \"tag\": \"Neutral\"}\n{\"value\": \"Banca Ifis\", \"start\": 209, \"end\": 219, \"tag\": \"Neutral\"}\n{\"value\": \"Credito Emiliano\", \"start\": 229, \"end\": 245, \"tag\": \"Neutral\"}\n{\"value\": \"doValue\", \"start\": 257, \"end\": 264, \"tag\": \"Neutral\"}\n{\"value\": \"illimity Bank\", \"start\": 276, \"end\": 289, \"tag\": \"Neutral\"}\n{\"value\": \"Banca Monte dei Paschi di Siena\", \"start\": 301, \"end\": 332, \"tag\": \"Neutral\"}\n{\"value\": \"Rai Way\", \"start\": 344, \"end\": 351, \"tag\": \"Neutral\"}\n{\"value\": \"RCS MediaGroup\", \"start\": 391, \"end\": 405, \"tag\": \"Neutral\"}\n{\"value\": \"Seco\", \"start\": 417, \"end\": 421, \"tag\": \"Neutral\"}\n{\"value\": \"Tod's\", \"start\": 432, \"end\": 437, \"tag\": \"Neutral\"}\n{\"value\": \"UnipolSai\", \"start\": 448, \"end\": 457, \"tag\": \"Neutral\"}\n{\"value\": \"Webuild\", \"start\": 467, \"end\": 474, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 973,
+        "content": "Several heavyweight private equity funds have come forward to express interest in the Bundesliga rights race, including Bain Capital, KKR, EQT, Advent, Silver Lake, Blackstone <BX.N> and Bridgepoint, but the auction is only expected to kick off in late October, the sources said.",
+        "input": "Several heavyweight private equity funds have come forward to express interest in the Bundesliga rights race, including Bain Capital, KKR, EQT, Advent, Silver Lake, Blackstone <BX.N> and Bridgepoint, but the auction is only expected to kick off in late October, the sources said.",
+        "output": "{\"value\": \"Bain Capital\", \"start\": 120, \"end\": 132, \"tag\": \"Neutral\"}\n{\"value\": \"KKR\", \"start\": 134, \"end\": 137, \"tag\": \"Neutral\"}\n{\"value\": \"EQT\", \"start\": 139, \"end\": 142, \"tag\": \"Neutral\"}\n{\"value\": \"Advent\", \"start\": 144, \"end\": 150, \"tag\": \"Neutral\"}\n{\"value\": \"Silver Lake\", \"start\": 152, \"end\": 163, \"tag\": \"Neutral\"}\n{\"value\": \"Blackstone\", \"start\": 165, \"end\": 175, \"tag\": \"Neutral\"}\n{\"value\": \"Bridgepoint\", \"start\": 187, \"end\": 198, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 601,
+        "content": "The company also added to its position in energy giant Chevron Corp <CVX.N> while slicing its position in healthcare names including Bristol-Myers Squibb Co and Abbvie Inc <ABBV.N> during the quarter that ended in December. ",
+        "input": "The company also added to its position in energy giant Chevron Corp <CVX.N> while slicing its position in healthcare names including Bristol-Myers Squibb Co and Abbvie Inc <ABBV.N> during the quarter that ended in December. ",
+        "output": "{\"value\": \"Chevron Corp\", \"start\": 55, \"end\": 67, \"tag\": \"Neutral\"}\n{\"value\": \"Bristol-Myers Squibb Co\", \"start\": 133, \"end\": 156, \"tag\": \"Neutral\"}\n{\"value\": \"Abbvie Inc\", \"start\": 161, \"end\": 171, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 955,
+        "content": " of M&C Saatchi <SAA.L> after the required majority of the British advertising group's shareholders did not vote in favour of the proposal at a court meeting.   ",
+        "input": " of M&C Saatchi <SAA.L> after the required majority of the British advertising group's shareholders did not vote in favour of the proposal at a court meeting.   ",
+        "output": "{\"value\": \"M&C Saatchi\", \"start\": 4, \"end\": 15, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 199,
+        "content": "Germany-based footwear maker Adidas AG <ADSGn.DE> cut its earnings target for the year due to a slow recovery for its business in China. [nASM000KRE]",
+        "input": "Germany-based footwear maker Adidas AG <ADSGn.DE> cut its earnings target for the year due to a slow recovery for its business in China. [nASM000KRE]",
+        "output": "{\"value\": \"Adidas AG\", \"start\": 29, \"end\": 38, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 278,
+        "content": "And on the recent price action in stocks, Barclays says the tentative calm in rates and the dollar, along with oversold technicals, may offer some respite to equities.     ",
+        "input": "And on the recent price action in stocks, Barclays says the tentative calm in rates and the dollar, along with oversold technicals, may offer some respite to equities.     ",
+        "output": "{\"value\": \"Barclays\", \"start\": 42, \"end\": 50, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 739,
+        "content": "\"Yesterday's news about Apple suspending its production increase caused the market to factor in a global recession,\" Tokai Tokyo Research Institute senior strategist Takashi Nakamura said. ",
+        "input": "\"Yesterday's news about Apple suspending its production increase caused the market to factor in a global recession,\" Tokai Tokyo Research Institute senior strategist Takashi Nakamura said. ",
+        "output": "{\"value\": \"Apple\", \"start\": 24, \"end\": 29, \"tag\": \"Neutral\"}\n{\"value\": \"Tokai Tokyo Research Institute\", \"start\": 117, \"end\": 147, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 929,
+        "content": "In the event the IXIC tests, or violates its March 2022 lows, traders will be watching to see if the daily RSI, which ended Friday at roughly 30.00, can stabilize ahead of its late-January low at 16.599.",
+        "input": "In the event the IXIC tests, or violates its March 2022 lows, traders will be watching to see if the daily RSI, which ended Friday at roughly 30.00, can stabilize ahead of its late-January low at 16.599.",
+        "output": "{\"value\": \"IXIC\", \"start\": 17, \"end\": 21, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 683,
+        "content": "The slowdown \"is weighing on affordability particularly for new buyers, forcing some into the rental market, which then creates further upside pressure on rent prices,\ufffd\ufffd says David Tinsley, senior economist at the Bank of America Institute.",
+        "input": "The slowdown \"is weighing on affordability particularly for new buyers, forcing some into the rental market, which then creates further upside pressure on rent prices,\ufffd\ufffd says David Tinsley, senior economist at the Bank of America Institute.",
+        "output": "{\"value\": \"Bank of America Institute\", \"start\": 213, \"end\": 238, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 260,
+        "content": "The contract manufacturer added that J&J had failed to provide required forecasts for the amount of vaccines it needed and had wound down the agreement instead of fulfilling minimum requirements. ",
+        "input": "The contract manufacturer added that J&J had failed to provide required forecasts for the amount of vaccines it needed and had wound down the agreement instead of fulfilling minimum requirements. ",
+        "output": "{\"value\": \"J&J\", \"start\": 37, \"end\": 40, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 685,
+        "content": "On Monday, the benchmark S&P 500 <.SPX> marked a more than 20% decline from its most recent record closing high, confirming a bear market began on Jan. 3, according to a commonly used definition. ",
+        "input": "On Monday, the benchmark S&P 500 <.SPX> marked a more than 20% decline from its most recent record closing high, confirming a bear market began on Jan. 3, according to a commonly used definition. ",
+        "output": "{\"value\": \"S&P 500\", \"start\": 25, \"end\": 32, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 826,
+        "content": "Other signatories included International Brotherhood of Teamsters, Main Street Alliance, Demand Progress Education Fund, Institute for Local Self-Reliance and Open Markets Institute.   (Reporting by Diane Bartz Editing by Alistair Bell)  ((Diane.Bartz@thomsonreuters.com; 1 202 898 8313;))",
+        "input": "Other signatories included International Brotherhood of Teamsters, Main Street Alliance, Demand Progress Education Fund, Institute for Local Self-Reliance and Open Markets Institute.   (Reporting by Diane Bartz Editing by Alistair Bell)  ((Diane.Bartz@thomsonreuters.com; 1 202 898 8313;))",
+        "output": "{\"value\": \"International Brotherhood of Teamsters\", \"start\": 27, \"end\": 65, \"tag\": \"Neutral\"}\n{\"value\": \"Main Street Alliance\", \"start\": 67, \"end\": 87, \"tag\": \"Neutral\"}\n{\"value\": \"Demand Progress Education Fund\", \"start\": 89, \"end\": 119, \"tag\": \"Neutral\"}\n{\"value\": \"Institute for Local Self-Reliance\", \"start\": 121, \"end\": 154, \"tag\": \"Neutral\"}\n{\"value\": \"Open Markets Institute\", \"start\": 159, \"end\": 181, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 745,
+        "content": "\"There's still some uncertainty based on whether or not Elon can find the actual financing to do the deal,\" said Randy Frederick, managing director of trading and derivatives for the Schwab Center.",
+        "input": "\"There's still some uncertainty based on whether or not Elon can find the actual financing to do the deal,\" said Randy Frederick, managing director of trading and derivatives for the Schwab Center.",
+        "output": "{\"value\": \"Schwab Center\", \"start\": 183, \"end\": 196, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 69,
+        "content": "\"The iPhone's popularity has endured, with the iconic handsets still making up over half of net sales, even though the market is crowded with many smart phone rivals,\" said Hargreaves Lansdown analyst Susannah Streeter. ",
+        "input": "\"The iPhone's popularity has endured, with the iconic handsets still making up over half of net sales, even though the market is crowded with many smart phone rivals,\" said Hargreaves Lansdown analyst Susannah Streeter. ",
+        "output": "{\"value\": \"iPhone\", \"start\": 5, \"end\": 11, \"tag\": \"Positive\"}\n{\"value\": \"Hargreaves Lansdown\", \"start\": 173, \"end\": 192, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 218,
+        "content": "Investors are also nervously awaiting an impending deadline for the end of the Bank of England's emergency bond-buying programme, after the central bank stepped in last month to buy bonds to relieve pressure in the two trillion pound UK pensions sector.",
+        "input": "Investors are also nervously awaiting an impending deadline for the end of the Bank of England's emergency bond-buying programme, after the central bank stepped in last month to buy bonds to relieve pressure in the two trillion pound UK pensions sector.",
+        "output": "{\"value\": \"Bank of England\", \"start\": 79, \"end\": 94, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 388,
+        "content": "* FIFA has said it was assessing Amnesty's proposition and implementing an \"unprecedented due diligence process in relation to the protection of workers involved\".",
+        "input": "* FIFA has said it was assessing Amnesty's proposition and implementing an \"unprecedented due diligence process in relation to the protection of workers involved\".",
+        "output": "{\"value\": \"FIFA\", \"start\": 2, \"end\": 6, \"tag\": \"Neutral\"}\n{\"value\": \"Amnesty\", \"start\": 33, \"end\": 40, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 85,
+        "content": "AAII reported that bullish sentiment, or expectations that stock prices will rise over the next six months, surged by 10.3 percentage points to 32.8%. Optimism was last at this level on Jan. 6, 2022. Even with the big jump, however, bullish sentiment remains below its historical average of 38.0% for the 18th consecutive week.",
+        "input": "AAII reported that bullish sentiment, or expectations that stock prices will rise over the next six months, surged by 10.3 percentage points to 32.8%. Optimism was last at this level on Jan. 6, 2022. Even with the big jump, however, bullish sentiment remains below its historical average of 38.0% for the 18th consecutive week.",
+        "output": "{\"value\": \"AAII\", \"start\": 0, \"end\": 4, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 768,
+        "content": "Lyft forecast second-quarter revenue below Wall Street expectations and shares fell 26% in after-hours trade. Shares of rival Uber Technologies Inc <UBER.N>, which reports its own results on Wednesday, fell 11%.",
+        "input": "Lyft forecast second-quarter revenue below Wall Street expectations and shares fell 26% in after-hours trade. Shares of rival Uber Technologies Inc <UBER.N>, which reports its own results on Wednesday, fell 11%.",
+        "output": "{\"value\": \"Lyft\", \"start\": 0, \"end\": 4, \"tag\": \"Negative\"}\n{\"value\": \"Uber Technologies Inc\", \"start\": 126, \"end\": 147, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 722,
+        "content": "CIFI\ufffd\ufffds plight is particularly alarming. It managed to avoid defaults on any of its publicly-traded debt, and even paid an interest payment for an offshore bond <KY196979280=RRPS> due in 2024. That bond, though, rallied to 60 cents on the dollar last month, but now trades at just 28 cents. CIFI\ufffd\ufffds chairman has also flagged that the company was not able to tap its $4.1 billion of cash on its balance sheet due to government controls on its escrow accounts. The stronger parts of the property market are weakening, and fast. (By Yawen Chen)",
+        "input": "CIFI\ufffd\ufffds plight is particularly alarming. It managed to avoid defaults on any of its publicly-traded debt, and even paid an interest payment for an offshore bond <KY196979280=RRPS> due in 2024. That bond, though, rallied to 60 cents on the dollar last month, but now trades at just 28 cents. CIFI\ufffd\ufffds chairman has also flagged that the company was not able to tap its $4.1 billion of cash on its balance sheet due to government controls on its escrow accounts. The stronger parts of the property market are weakening, and fast. (By Yawen Chen)",
+        "output": "{\"value\": \"CIFI\", \"start\": 0, \"end\": 4, \"tag\": \"Negative\"}\n{\"value\": \"CIFI\", \"start\": 290, \"end\": 294, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 130,
+        "content": "Not only had analysts expected a 1.4% decline, the modest gain stood on the shoulders of February's upwardly adjusted 1.788 million units SAAR, according to the Commerce Department.",
+        "input": "Not only had analysts expected a 1.4% decline, the modest gain stood on the shoulders of February's upwardly adjusted 1.788 million units SAAR, according to the Commerce Department.",
+        "output": "{\"value\": \"Commerce Department\", \"start\": 161, \"end\": 180, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 910,
+        "content": "That partnership, announced in July 2020, allows the carriers to sell each other's flights and link frequent flyer programs, a move aimed at helping them compete with United Airlines <UAL.O> and Delta Air Lines <DAL.N> in the Northeast.",
+        "input": "That partnership, announced in July 2020, allows the carriers to sell each other's flights and link frequent flyer programs, a move aimed at helping them compete with United Airlines <UAL.O> and Delta Air Lines <DAL.N> in the Northeast.",
+        "output": "{\"value\": \"United Airlines\", \"start\": 167, \"end\": 182, \"tag\": \"Neutral\"}\n{\"value\": \"Delta Air Lines\", \"start\": 195, \"end\": 210, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 192,
+        "content": "Short interest in cannabis stocks continues to tumble, with the shorting of Tilray Brands Inc <TLRY.O> and Canopy Growth Corp. <CGC.O> making up more than half of the short selling, says the latest research from S3 Partners.",
+        "input": "Short interest in cannabis stocks continues to tumble, with the shorting of Tilray Brands Inc <TLRY.O> and Canopy Growth Corp. <CGC.O> making up more than half of the short selling, says the latest research from S3 Partners.",
+        "output": "{\"value\": \"Tilray Brands Inc\", \"start\": 76, \"end\": 93, \"tag\": \"Negative\"}\n{\"value\": \"Canopy Growth Corp\", \"start\": 107, \"end\": 125, \"tag\": \"Negative\"}\n{\"value\": \"S3 Partners\", \"start\": 212, \"end\": 223, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 396,
+        "content": "JPMorgan, HSBC, ICBC Standard and UBS declined to comment when asked about how they handled investor requests to sell their holdings of Russian gold. ",
+        "input": "JPMorgan, HSBC, ICBC Standard and UBS declined to comment when asked about how they handled investor requests to sell their holdings of Russian gold. ",
+        "output": "{\"value\": \"JPMorgan\", \"start\": 0, \"end\": 8, \"tag\": \"Neutral\"}\n{\"value\": \"HSBC\", \"start\": 10, \"end\": 14, \"tag\": \"Neutral\"}\n{\"value\": \"ICBC Standard\", \"start\": 16, \"end\": 29, \"tag\": \"Neutral\"}\n{\"value\": \"UBS\", \"start\": 34, \"end\": 37, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 769,
+        "content": "TripAdvisor Inc <TRIP.O> lost 2.50% after the hotel search website operator posted a surprise fourth-quarter loss. Albemarle Corp <ALB.N> plunged 19.91% as the lithium producer forecast downbeat annual earnings. [nL4N2UR440]",
+        "input": "TripAdvisor Inc <TRIP.O> lost 2.50% after the hotel search website operator posted a surprise fourth-quarter loss. Albemarle Corp <ALB.N> plunged 19.91% as the lithium producer forecast downbeat annual earnings. [nL4N2UR440]",
+        "output": "{\"value\": \"TripAdvisor Inc\", \"start\": 0, \"end\": 15, \"tag\": \"Negative\"}\n{\"value\": \"Albemarle Corp\", \"start\": 115, \"end\": 129, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 160,
+        "content": "Apple has so far played this down, pointing out   that it only has a small share of the ad market. Amazon.com <AMZN.O> and Alphabet\ufffd\ufffds Google <GOOGL.O> are both bigger advertisers. Apple\ufffd\ufffds growth is flattered by coming from a small base, and the fact that the mobile ad market grew 27% last year. But the harder it is for firms to utilize data from iPhone apps when selling ads, the more valuable Apple\ufffd\ufffds own stash of user information becomes, which is no bad thing for its investors.",
+        "input": "Apple has so far played this down, pointing out   that it only has a small share of the ad market. Amazon.com <AMZN.O> and Alphabet\ufffd\ufffds Google <GOOGL.O> are both bigger advertisers. Apple\ufffd\ufffds growth is flattered by coming from a small base, and the fact that the mobile ad market grew 27% last year. But the harder it is for firms to utilize data from iPhone apps when selling ads, the more valuable Apple\ufffd\ufffds own stash of user information becomes, which is no bad thing for its investors.",
+        "output": "{\"value\": \"Apple\", \"start\": 0, \"end\": 5, \"tag\": \"Neutral\"}\n{\"value\": \"Amazon.com\", \"start\": 99, \"end\": 109, \"tag\": \"Neutral\"}\n{\"value\": \"Alphabet\", \"start\": 123, \"end\": 131, \"tag\": \"Neutral\"}\n{\"value\": \"Google\", \"start\": 134, \"end\": 140, \"tag\": \"Neutral\"}\n{\"value\": \"Apple\", \"start\": 180, \"end\": 185, \"tag\": \"Neutral\"}\n{\"value\": \"iPhone\", \"start\": 348, \"end\": 354, \"tag\": \"Neutral\"}\n{\"value\": \"Apple\", \"start\": 396, \"end\": 401, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 399,
+        "content": "\"These executions amount to arbitrary deprivation of lives and are another example of Myanmar\ufffd\ufffds atrocious human rights record,\" said Erwin Van Der Borght, regional director of rights group Amnesty International. ",
+        "input": "\"These executions amount to arbitrary deprivation of lives and are another example of Myanmar\ufffd\ufffds atrocious human rights record,\" said Erwin Van Der Borght, regional director of rights group Amnesty International. ",
+        "output": "{\"value\": \"Amnesty International\", \"start\": 189, \"end\": 210, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 116,
+        "content": "Walmart Inc <WMT.N> had also lifted its annual sales and profit outlook on strong demand for groceries and better inventory levels, but it forecast a muted holiday season as discretionary spending remains pressured. ",
+        "input": "Walmart Inc <WMT.N> had also lifted its annual sales and profit outlook on strong demand for groceries and better inventory levels, but it forecast a muted holiday season as discretionary spending remains pressured. ",
+        "output": "{\"value\": \"Walmart Inc\", \"start\": 0, \"end\": 11, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 382,
+        "content": " American Airlines Group Inc, Delta Air Lines Inc, Southwest Airlines Co, and United Airlines Holdings Inc will present at the J.P. Morgan Industrials Conference. They are expected to talk about any impact to their outlook from high oil prices and the Russia-Ukraine war. Separately, the bosses of Delta Air Lines Inc and Virgin Atlantic Airways Ltd will meet journalists in London to discuss the state of the recovery in international travel, and their partnership.",
+        "input": " American Airlines Group Inc, Delta Air Lines Inc, Southwest Airlines Co, and United Airlines Holdings Inc will present at the J.P. Morgan Industrials Conference. They are expected to talk about any impact to their outlook from high oil prices and the Russia-Ukraine war. Separately, the bosses of Delta Air Lines Inc and Virgin Atlantic Airways Ltd will meet journalists in London to discuss the state of the recovery in international travel, and their partnership.",
+        "output": "{\"value\": \"American Airlines Group Inc\", \"start\": 1, \"end\": 28, \"tag\": \"Neutral\"}\n{\"value\": \"Delta Air Lines Inc\", \"start\": 30, \"end\": 49, \"tag\": \"Neutral\"}\n{\"value\": \"Southwest Airlines Co\", \"start\": 51, \"end\": 72, \"tag\": \"Neutral\"}\n{\"value\": \"United Airlines Holdings Inc\", \"start\": 78, \"end\": 106, \"tag\": \"Neutral\"}\n{\"value\": \"J.P. Morgan\", \"start\": 127, \"end\": 138, \"tag\": \"Neutral\"}\n{\"value\": \"Delta Air Lines Inc\", \"start\": 298, \"end\": 317, \"tag\": \"Neutral\"}\n{\"value\": \"Virgin Atlantic Airways Ltd\", \"start\": 322, \"end\": 349, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 970,
+        "content": "Apple Inc <AAPL.O>, Samsung Electronics <005930.KS>, Vivo, Xiaomi Corp <1810.HK>, as well as the three domestic telecom operators, did not immediately respond to a request for comment. The government's IT and telecom departments also did not respond.",
+        "input": "Apple Inc <AAPL.O>, Samsung Electronics <005930.KS>, Vivo, Xiaomi Corp <1810.HK>, as well as the three domestic telecom operators, did not immediately respond to a request for comment. The government's IT and telecom departments also did not respond.",
+        "output": "{\"value\": \"Apple Inc\", \"start\": 0, \"end\": 9, \"tag\": \"Neutral\"}\n{\"value\": \"Samsung Electronics\", \"start\": 20, \"end\": 39, \"tag\": \"Neutral\"}\n{\"value\": \"Vivo\", \"start\": 53, \"end\": 57, \"tag\": \"Neutral\"}\n{\"value\": \"Xiaomi Corp\", \"start\": 59, \"end\": 70, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 81,
+        "content": "Home Depot Inc <HD.N> surpassed estimates for quarterly sales after demand from builders and higher prices helped the biggest U.S. home-improvement chain cushion the hit from dwindling store visits. Home Depot's shares are rising  2.57%.",
+        "input": "Home Depot Inc <HD.N> surpassed estimates for quarterly sales after demand from builders and higher prices helped the biggest U.S. home-improvement chain cushion the hit from dwindling store visits. Home Depot's shares are rising  2.57%.",
+        "output": "{\"value\": \"Home Depot Inc\", \"start\": 0, \"end\": 14, \"tag\": \"Positive\"}\n{\"value\": \"Home Depot\", \"start\": 199, \"end\": 209, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 373,
+        "content": "Goldman recommends buying Starbucks <SBUX.O> straddles ahead of its Sept. 13 analyst day where the management is expected to provide additional color on its reinvention strategy.",
+        "input": "Goldman recommends buying Starbucks <SBUX.O> straddles ahead of its Sept. 13 analyst day where the management is expected to provide additional color on its reinvention strategy.",
+        "output": "{\"value\": \"Goldman\", \"start\": 0, \"end\": 7, \"tag\": \"Neutral\"}\n{\"value\": \"Starbucks\", \"start\": 26, \"end\": 35, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 890,
+        "content": "For months, markets have focused on how fast central banks have been moving to curb inflation. Investors now expect the Federal Reserve to raise interest rates by 50 basis points next week, especially if U.S. consumer price data on Friday confirms elevated inflation.    ",
+        "input": "For months, markets have focused on how fast central banks have been moving to curb inflation. Investors now expect the Federal Reserve to raise interest rates by 50 basis points next week, especially if U.S. consumer price data on Friday confirms elevated inflation.    ",
+        "output": "{\"value\": \"Federal Reserve\", \"start\": 120, \"end\": 135, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 144,
+        "content": "One of the first numbers investors look for in UBS earnings is \ufffd\ufffdnet new fee-generating assets\ufffd\ufffd, a measure of whether clients are pulling their cash or handing UBS more money to invest on their behalf. The good news is that the figure was positive in the second quarter, despite the market storm. The bad news is that, at just $400 million, it was far lower than the quarterly average of $18.6 billion since the start of 2020. UBS even lost $3.5 billion of assets in the Americas.",
+        "input": "One of the first numbers investors look for in UBS earnings is \ufffd\ufffdnet new fee-generating assets\ufffd\ufffd, a measure of whether clients are pulling their cash or handing UBS more money to invest on their behalf. The good news is that the figure was positive in the second quarter, despite the market storm. The bad news is that, at just $400 million, it was far lower than the quarterly average of $18.6 billion since the start of 2020. UBS even lost $3.5 billion of assets in the Americas.",
+        "output": "{\"value\": \"UBS\", \"start\": 47, \"end\": 50, \"tag\": \"Neutral\"}\n{\"value\": \"UBS\", \"start\": 159, \"end\": 162, \"tag\": \"Neutral\"}\n{\"value\": \"UBS\", \"start\": 426, \"end\": 429, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 1,
+        "content": "On the positive side, Siemens is rallying 6% after a boom in quarterly orders and packaging maker Huhtamaki is also up by 6% after profit beat expectations.",
+        "input": "On the positive side, Siemens is rallying 6% after a boom in quarterly orders and packaging maker Huhtamaki is also up by 6% after profit beat expectations.",
+        "output": "{\"value\": \"Siemens\", \"start\": 22, \"end\": 29, \"tag\": \"Positive\"}\n{\"value\": \"Huhtamaki\", \"start\": 98, \"end\": 107, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 510,
+        "content": "Dollar General Corp <DG.N> and Dollar Tree <DLTR.O> gained 11.4% and 15.3% respectively, after raising their annual sales forecasts, as more Americans turn to discount store shopping with inflation at a four-decade high. [nL3N2XI295][nL3N2XI2CJ]",
+        "input": "Dollar General Corp <DG.N> and Dollar Tree <DLTR.O> gained 11.4% and 15.3% respectively, after raising their annual sales forecasts, as more Americans turn to discount store shopping with inflation at a four-decade high. [nL3N2XI295][nL3N2XI2CJ]",
+        "output": "{\"value\": \"Dollar General Corp\", \"start\": 0, \"end\": 19, \"tag\": \"Positive\"}\n{\"value\": \"Dollar Tree\", \"start\": 31, \"end\": 42, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 151,
+        "content": "Worsening the mood, Russian President Vladimir Putin put nuclear-armed forces on high alert on Sunday. [nL1N2V308I]    Defense stocks L3Harris Technologies <LHX.N>, Raytheon Technologies <RTX.N>, Lockheed Martin Corp <LMT.N>, General Dynamics Corp <GD.N> and Northrop Grumman <NOC.N> jumped between 4.5% and 6.6% in premarket trading following news that Germany would increase its military spending. [nL4N2V33HQ]",
+        "input": "Worsening the mood, Russian President Vladimir Putin put nuclear-armed forces on high alert on Sunday. [nL1N2V308I]    Defense stocks L3Harris Technologies <LHX.N>, Raytheon Technologies <RTX.N>, Lockheed Martin Corp <LMT.N>, General Dynamics Corp <GD.N> and Northrop Grumman <NOC.N> jumped between 4.5% and 6.6% in premarket trading following news that Germany would increase its military spending. [nL4N2V33HQ]",
+        "output": "{\"value\": \"L3Harris Technologies\", \"start\": 134, \"end\": 155, \"tag\": \"Positive\"}\n{\"value\": \"Raytheon Technologies\", \"start\": 165, \"end\": 186, \"tag\": \"Positive\"}\n{\"value\": \"Lockheed Martin Corp\", \"start\": 196, \"end\": 216, \"tag\": \"Positive\"}\n{\"value\": \"General Dynamics Corp\", \"start\": 226, \"end\": 247, \"tag\": \"Positive\"}\n{\"value\": \"Northrop Grumman\", \"start\": 259, \"end\": 275, \"tag\": \"Positive\"}",
+        "instruction": ""
+    },
+    {
+        "id": 459,
+        "content": "Miratorg said it was a supplier for Vkusno & Tochka, the Russian successor to McDonald's, and did not directly address the question of Kazakh sales.",
+        "input": "Miratorg said it was a supplier for Vkusno & Tochka, the Russian successor to McDonald's, and did not directly address the question of Kazakh sales.",
+        "output": "{\"value\": \"Miratorg\", \"start\": 0, \"end\": 8, \"tag\": \"Neutral\"}\n{\"value\": \"Vkusno & Tochka\", \"start\": 36, \"end\": 51, \"tag\": \"Neutral\"}\n{\"value\": \"McDonald's\", \"start\": 78, \"end\": 88, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 682,
+        "content": "Nor is inflation the only problem: Ratings agency Fitch warns that the Czech Republic, Hungary and Slovakia are among the most vulnerable to a Russian gas supply cut-off.[nL8N2YG2G4]",
+        "input": "Nor is inflation the only problem: Ratings agency Fitch warns that the Czech Republic, Hungary and Slovakia are among the most vulnerable to a Russian gas supply cut-off.[nL8N2YG2G4]",
+        "output": "{\"value\": \"Fitch\", \"start\": 50, \"end\": 55, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 219,
+        "content": "The departures have hit oil service providers and contractors the hardest, said the Venezuelan Petroleum Chamber, whose members fell to 300 from 500 in the last four years.",
+        "input": "The departures have hit oil service providers and contractors the hardest, said the Venezuelan Petroleum Chamber, whose members fell to 300 from 500 in the last four years.",
+        "output": "{\"value\": \"Venezuelan Petroleum Chamber\", \"start\": 84, \"end\": 112, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 90,
+        "content": "Analysts in aggregate believe the S&P 500 posted year-over-year earnings growth of 9.7% in the April to June period, much stronger than the 5.6% predicted at quarter-end, per Refinitiv.",
+        "input": "Analysts in aggregate believe the S&P 500 posted year-over-year earnings growth of 9.7% in the April to June period, much stronger than the 5.6% predicted at quarter-end, per Refinitiv.",
+        "output": "{\"value\": \"S&P 500\", \"start\": 34, \"end\": 41, \"tag\": \"Positive\"}\n{\"value\": \"Refinitiv\", \"start\": 175, \"end\": 184, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 734,
+        "content": "The S&P 500 slumped about 2.4% in the prior three sessions and recently joined the Dow, Nasdaq and Russell 2000 <.RUT> in forming a \"death cross\" technical pattern, when a short-term moving average crosses below a longer-term moving average, which some investors believe signals more near-term weakness is likely. [nL2N2VI1WC]",
+        "input": "The S&P 500 slumped about 2.4% in the prior three sessions and recently joined the Dow, Nasdaq and Russell 2000 <.RUT> in forming a \"death cross\" technical pattern, when a short-term moving average crosses below a longer-term moving average, which some investors believe signals more near-term weakness is likely. [nL2N2VI1WC]",
+        "output": "{\"value\": \"S&P 500\", \"start\": 4, \"end\": 11, \"tag\": \"Negative\"}\n{\"value\": \"Dow\", \"start\": 83, \"end\": 86, \"tag\": \"Negative\"}\n{\"value\": \"Nasdaq\", \"start\": 88, \"end\": 94, \"tag\": \"Negative\"}\n{\"value\": \"Russell 2000\", \"start\": 99, \"end\": 111, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 25,
+        "content": "Micro-blogging site Twitter Inc <TWTR.N> gained 3.8%, adding to its 27% surge in the previous session, after saying it will name top shareholder and Tesla Inc <TSLA.O> CEO Elon Musk to its board. [nL3N2W31MV]",
+        "input": "Micro-blogging site Twitter Inc <TWTR.N> gained 3.8%, adding to its 27% surge in the previous session, after saying it will name top shareholder and Tesla Inc <TSLA.O> CEO Elon Musk to its board. [nL3N2W31MV]",
+        "output": "{\"value\": \"Twitter Inc\", \"start\": 20, \"end\": 31, \"tag\": \"Positive\"}\n{\"value\": \"Tesla Inc\", \"start\": 149, \"end\": 158, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 395,
+        "content": "The deal with Social Leverage Acquisition Corp I <SLAC.N> is expected to fetch up to $345 million in proceeds from the special purpose acquisition company's (SPAC) trust account, assuming no redemptions. ",
+        "input": "The deal with Social Leverage Acquisition Corp I <SLAC.N> is expected to fetch up to $345 million in proceeds from the special purpose acquisition company's (SPAC) trust account, assuming no redemptions. ",
+        "output": "{\"value\": \"Social Leverage Acquisition Corp I\", \"start\": 14, \"end\": 48, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 656,
+        "content": "A former Goldman Sachs <GS.N> banker, a former FBI trainee  and a technology executive were among those arrested. The seven defendants also face parallel civil charges by the U.S. Securities and Exchange Commission. [nL1N2Z61EC]  ",
+        "input": "A former Goldman Sachs <GS.N> banker, a former FBI trainee  and a technology executive were among those arrested. The seven defendants also face parallel civil charges by the U.S. Securities and Exchange Commission. [nL1N2Z61EC]  ",
+        "output": "{\"value\": \"Goldman Sachs\", \"start\": 9, \"end\": 22, \"tag\": \"Neutral\"}\n{\"value\": \"FBI\", \"start\": 47, \"end\": 50, \"tag\": \"Neutral\"}\n{\"value\": \"U.S. Securities and Exchange Commission\", \"start\": 175, \"end\": 214, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 233,
+        "content": "The company's studio segment reported revenues of $3.1 billion, down 5% from a year earlier. The company had fewer movie releases than a year ago. Its networks segment, which includes TBS, Discovery Channel and Food Network, reported revenue of $5.2 billion, down 8% compared with a year ago. ",
+        "input": "The company's studio segment reported revenues of $3.1 billion, down 5% from a year earlier. The company had fewer movie releases than a year ago. Its networks segment, which includes TBS, Discovery Channel and Food Network, reported revenue of $5.2 billion, down 8% compared with a year ago. ",
+        "output": "{\"value\": \"TBS\", \"start\": 184, \"end\": 187, \"tag\": \"Negative\"}\n{\"value\": \"Discovery Channel\", \"start\": 189, \"end\": 206, \"tag\": \"Negative\"}\n{\"value\": \"Food Network\", \"start\": 211, \"end\": 223, \"tag\": \"Negative\"}",
+        "instruction": ""
+    },
+    {
+        "id": 752,
+        "content": "Investors closely awaited a crucial supply decision from OPEC+ due later Wednesday, which could have global implications for already high energy prices and inflation.",
+        "input": "Investors closely awaited a crucial supply decision from OPEC+ due later Wednesday, which could have global implications for already high energy prices and inflation.",
+        "output": "{\"value\": \"OPEC+\", \"start\": 57, \"end\": 62, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 68,
+        "content": "Hong Kong-based Baring Private Equity Asia has also positioned Japan as a top priority, said Atsushi Takeiri, head of Japan real estate. He joined the firm last November from Fortress Investment Group, which along with Blackstone Inc <BX.N> has already built a thriving property investment business in Japan.",
+        "input": "Hong Kong-based Baring Private Equity Asia has also positioned Japan as a top priority, said Atsushi Takeiri, head of Japan real estate. He joined the firm last November from Fortress Investment Group, which along with Blackstone Inc <BX.N> has already built a thriving property investment business in Japan.",
+        "output": "{\"value\": \"Baring Private Equity Asia\", \"start\": 16, \"end\": 42, \"tag\": \"Neutral\"}\n{\"value\": \"Fortress Investment Group\", \"start\": 175, \"end\": 200, \"tag\": \"Neutral\"}\n{\"value\": \"Blackstone Inc\", \"start\": 219, \"end\": 233, \"tag\": \"Neutral\"}",
+        "instruction": ""
+    },
+    {
+        "id": 354,
+        "content": "Shares of chemical companies have suffered some of the biggest declines since the invasion, since natural gas plays a key role in their manufacturing process. Car parts makers have also been hit hard, partly because Russia was a major market for  firms such as VW and Mercedes and partly because Ukraine and Russia have also been suppliers.",
+        "input": "Shares of chemical companies have suffered some of the biggest declines since the invasion, since natural gas plays a key role in their manufacturing process. Car parts makers have also been hit hard, partly because Russia was a major market for  firms such as VW and Mercedes and partly because Ukraine and Russia have also been suppliers.",
+        "output": "{\"value\": \"VW\", \"start\": 261, \"end\": 263, \"tag\": \"Negative\"}\n{\"value\": \"Mercedes\", \"start\": 268, \"end\": 276, \"tag\": \"Negative\"}",
+        "instruction": ""
+    }
+]
