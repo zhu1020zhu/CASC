@@ -1,2 +1,2 @@
-# CASC
-CASC: Refining Financial Sentiment Analysis at the Entity Level with Context-Aware Correction
+# SILC-EFSA
+SILC-EFSA: Self-aware In-context Learning Correction for Entity-Level Financial Sentiment Analysis
